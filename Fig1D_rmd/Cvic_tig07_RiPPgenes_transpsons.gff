@@ -1,0 +1,1064 @@
+##gff-version 3
+##source-version geneious 9.1.8
+Cvic_tig07	ena	gene	336947	346582	.	+	.	ID=gene:COCVIDRAFT_27710
+Cvic_tig07	ena	gene	1815534	1825064	.	-	.	ID=gene:COCVIDRAFT_19578
+Cvic_tig07	ena	gene	784669	791940	.	+	.	ID=gene:COCVIDRAFT_24325
+Cvic_tig07	ena	gene	709465	716498	.	+	.	ID=gene:COCVIDRAFT_91883
+Cvic_tig07	ena	gene	664772	671442	.	+	.	ID=gene:COCVIDRAFT_24283
+Cvic_tig07	ena	gene	1022412	1028381	.	+	.	ID=gene:COCVIDRAFT_108510
+Cvic_tig07	ena	gene	148505	154303	.	-	.	ID=gene:COCVIDRAFT_30820
+Cvic_tig07	ena	gene	495557	501317	.	-	.	ID=gene:COCVIDRAFT_39504
+Cvic_tig07	ena	gene	703405	708917	.	-	.	ID=gene:COCVIDRAFT_92186
+Cvic_tig07	ena	gene	579410	584841	.	-	.	ID=gene:COCVIDRAFT_28364
+Cvic_tig07	ena	gene	504970	510242	.	+	.	ID=gene:COCVIDRAFT_104500
+Cvic_tig07	ena	gene	1744823	1750069	.	+	.	ID=gene:COCVIDRAFT_110848
+Cvic_tig07	ena	gene	1154466	1159547	.	+	.	ID=gene:COCVIDRAFT_25705
+Cvic_tig07	ena	gene	971049	976106	.	+	.	ID=gene:COCVIDRAFT_108560
+Cvic_tig07	ena	gene	290813	295634	.	-	.	ID=gene:COCVIDRAFT_102643
+Cvic_tig07	ena	gene	317900	322633	.	-	.	ID=gene:COCVIDRAFT_102485
+Cvic_tig07	ena	gene	1353370	1357853	.	-	.	ID=gene:COCVIDRAFT_38771
+Cvic_tig07	ena	gene	1712416	1716705	.	+	.	ID=gene:COCVIDRAFT_30381
+Cvic_tig07	ena	gene	1218999	1223284	.	-	.	ID=gene:COCVIDRAFT_96228
+Cvic_tig07	ena	gene	866988	871250	.	-	.	ID=gene:COCVIDRAFT_91964
+Cvic_tig07	ena	gene	371181	375410	.	-	.	ID=gene:COCVIDRAFT_27697
+Cvic_tig07	ena	gene	271553	275654	.	+	.	ID=gene:COCVIDRAFT_102570
+Cvic_tig07	ena	gene	175414	179385	.	+	.	ID=gene:COCVIDRAFT_30827
+Cvic_tig07	ena	gene	1110630	1114568	.	-	.	ID=gene:COCVIDRAFT_96461
+Cvic_tig07	ena	gene	1579250	1583175	.	-	.	ID=gene:COCVIDRAFT_41179
+Cvic_tig07	ena	gene	1236724	1240624	.	+	.	ID=gene:COCVIDRAFT_96460
+Cvic_tig07	ena	gene	1444393	1448265	.	-	.	ID=gene:COCVIDRAFT_31400
+Cvic_tig07	ena	gene	1564890	1568738	.	+	.	ID=gene:COCVIDRAFT_29958
+Cvic_tig07	ena	gene	552029	555873	.	-	.	ID=gene:COCVIDRAFT_39527
+Cvic_tig07	ena	gene	1688983	1692817	.	-	.	ID=gene:COCVIDRAFT_19669
+Cvic_tig07	ena	gene	1011782	1015607	.	-	.	ID=gene:COCVIDRAFT_18947
+Cvic_tig07	ena	gene	1682972	1686692	.	+	.	ID=gene:COCVIDRAFT_41594
+Cvic_tig07	ena	gene	1614704	1618344	.	+	.	ID=gene:COCVIDRAFT_41191
+Cvic_tig07	ena	gene	1359953	1363549	.	+	.	ID=gene:COCVIDRAFT_38774
+Cvic_tig07	ena	gene	838501	842073	.	-	.	ID=gene:COCVIDRAFT_91875
+Cvic_tig07	ena	gene	478173	481711	.	-	.	ID=gene:COCVIDRAFT_39499
+Cvic_tig07	ena	gene	1147024	1150539	.	+	.	ID=gene:COCVIDRAFT_96359
+Cvic_tig07	ena	gene	404505	408018	.	+	.	ID=gene:COCVIDRAFT_27686
+Cvic_tig07	ena	gene	1315194	1318665	.	+	.	ID=gene:COCVIDRAFT_15040
+Cvic_tig07	ena	gene	1610214	1613684	.	-	.	ID=gene:COCVIDRAFT_109554
+Cvic_tig07	ena	gene	1962291	1965761	.	-	.	ID=gene:COCVIDRAFT_31904
+Cvic_tig07	ena	gene	1659063	1662511	.	-	.	ID=gene:COCVIDRAFT_30362
+Cvic_tig07	ena	gene	1261326	1264704	.	-	.	ID=gene:COCVIDRAFT_36808
+Cvic_tig07	ena	gene	775109	778478	.	+	.	ID=gene:COCVIDRAFT_35418
+Cvic_tig07	ena	gene	1652620	1655969	.	+	.	ID=gene:COCVIDRAFT_31782
+Cvic_tig07	ena	gene	1287881	1291219	.	+	.	ID=gene:COCVIDRAFT_96470
+Cvic_tig07	ena	gene	908617	911885	.	-	.	ID=gene:COCVIDRAFT_35467
+Cvic_tig07	ena	gene	2094339	2097605	.	+	.	ID=gene:COCVIDRAFT_31968
+Cvic_tig07	ena	gene	1769603	1772866	.	-	.	ID=gene:COCVIDRAFT_110568
+Cvic_tig07	ena	gene	1707526	1710789	.	+	.	ID=gene:COCVIDRAFT_80768
+Cvic_tig07	ena	gene	731637	734887	.	-	.	ID=gene:COCVIDRAFT_92095
+Cvic_tig07	ena	gene	1170998	1174227	.	+	.	ID=gene:COCVIDRAFT_15083
+Cvic_tig07	ena	gene	656278	659503	.	+	.	ID=gene:COCVIDRAFT_35376
+Cvic_tig07	ena	gene	190968	194170	.	-	.	ID=gene:COCVIDRAFT_112238
+Cvic_tig07	ena	gene	736597	739761	.	-	.	ID=gene:COCVIDRAFT_91868
+Cvic_tig07	ena	gene	762084	765242	.	-	.	ID=gene:COCVIDRAFT_24318
+Cvic_tig07	ena	gene	489198	492317	.	+	.	ID=gene:COCVIDRAFT_104413
+Cvic_tig07	ena	gene	821403	824505	.	+	.	ID=gene:COCVIDRAFT_91978
+Cvic_tig07	ena	gene	1560525	1563612	.	+	.	ID=gene:COCVIDRAFT_41170
+Cvic_tig07	ena	gene	1008478	1011556	.	+	.	ID=gene:COCVIDRAFT_29624
+Cvic_tig07	ena	gene	1417443	1420517	.	+	.	ID=gene:COCVIDRAFT_114064
+Cvic_tig07	ena	gene	457565	460575	.	+	.	ID=gene:COCVIDRAFT_28319
+Cvic_tig07	ena	gene	593468	596405	.	-	.	ID=gene:COCVIDRAFT_24258
+Cvic_tig07	ena	gene	1115074	1117999	.	+	.	ID=gene:COCVIDRAFT_15097
+Cvic_tig07	ena	gene	999383	1002264	.	-	.	ID=gene:COCVIDRAFT_108524
+Cvic_tig07	ena	gene	962811	965629	.	+	.	ID=gene:COCVIDRAFT_18959
+Cvic_tig07	ena	gene	1192521	1195326	.	-	.	ID=gene:COCVIDRAFT_25692
+Cvic_tig07	ena	gene	1179884	1182673	.	+	.	ID=gene:COCVIDRAFT_36834
+Cvic_tig07	ena	gene	1071362	1074137	.	-	.	ID=gene:COCVIDRAFT_96234
+Cvic_tig07	ena	gene	652799	655569	.	+	.	ID=gene:COCVIDRAFT_24280
+Cvic_tig07	ena	gene	589423	592188	.	-	.	ID=gene:COCVIDRAFT_92140
+Cvic_tig07	ena	gene	440622	443342	.	-	.	ID=gene:COCVIDRAFT_28312
+Cvic_tig07	ena	gene	879190	881904	.	-	.	ID=gene:COCVIDRAFT_13734
+Cvic_tig07	ena	gene	1535627	1538340	.	+	.	ID=gene:COCVIDRAFT_19266
+Cvic_tig07	ena	gene	993846	996531	.	+	.	ID=gene:COCVIDRAFT_29628
+Cvic_tig07	ena	gene	382433	385086	.	-	.	ID=gene:COCVIDRAFT_102493
+Cvic_tig07	ena	gene	660765	663417	.	-	.	ID=gene:COCVIDRAFT_91898
+Cvic_tig07	ena	gene	686780	689365	.	+	.	ID=gene:COCVIDRAFT_13666
+Cvic_tig07	ena	gene	1974981	1977562	.	+	.	ID=gene:COCVIDRAFT_20973
+Cvic_tig07	ena	gene	1105547	1108116	.	+	.	ID=gene:COCVIDRAFT_96439
+Cvic_tig07	ena	gene	472206	474753	.	-	.	ID=gene:COCVIDRAFT_39496
+Cvic_tig07	ena	gene	1058449	1060948	.	-	.	ID=gene:COCVIDRAFT_96210
+Cvic_tig07	ena	gene	437237	439732	.	-	.	ID=gene:COCVIDRAFT_104444
+Cvic_tig07	ena	gene	1635143	1637635	.	+	.	ID=gene:COCVIDRAFT_115311
+Cvic_tig07	ena	gene	481913	484400	.	+	.	ID=gene:COCVIDRAFT_28329
+Cvic_tig07	ena	gene	1325425	1327905	.	+	.	ID=gene:COCVIDRAFT_96448
+Cvic_tig07	ena	gene	848242	850713	.	+	.	ID=gene:COCVIDRAFT_13724
+Cvic_tig07	ena	gene	700452	702908	.	-	.	ID=gene:COCVIDRAFT_92166
+Cvic_tig07	ena	gene	676977	679427	.	-	.	ID=gene:COCVIDRAFT_91930
+Cvic_tig07	ena	gene	247831	250278	.	-	.	ID=gene:COCVIDRAFT_38898
+Cvic_tig07	ena	gene	798060	800480	.	+	.	ID=gene:COCVIDRAFT_24329
+Cvic_tig07	ena	gene	1891313	1893706	.	-	.	ID=gene:COCVIDRAFT_43213
+Cvic_tig07	ena	gene	1457980	1460369	.	+	.	ID=gene:COCVIDRAFT_42620
+Cvic_tig07	ena	gene	1052951	1055331	.	-	.	ID=gene:COCVIDRAFT_108540
+Cvic_tig07	ena	gene	1160463	1162842	.	+	.	ID=gene:COCVIDRAFT_15086
+Cvic_tig07	ena	gene	1264982	1267360	.	-	.	ID=gene:COCVIDRAFT_96471
+Cvic_tig07	ena	gene	567590	569956	.	-	.	ID=gene:COCVIDRAFT_28362
+Cvic_tig07	ena	gene	1637949	1640315	.	-	.	ID=gene:COCVIDRAFT_115309
+Cvic_tig07	ena	gene	1081029	1083385	.	-	.	ID=gene:COCVIDRAFT_25726
+Cvic_tig07	ena	gene	510484	512839	.	+	.	ID=gene:COCVIDRAFT_104407
+Cvic_tig07	ena	gene	409303	411648	.	+	.	ID=gene:COCVIDRAFT_27685
+Cvic_tig07	ena	gene	766118	768460	.	-	.	ID=gene:COCVIDRAFT_92120
+Cvic_tig07	ena	gene	684005	686347	.	-	.	ID=gene:COCVIDRAFT_35384
+Cvic_tig07	ena	gene	535006	537345	.	+	.	ID=gene:COCVIDRAFT_17692
+Cvic_tig07	ena	gene	356315	358651	.	-	.	ID=gene:COCVIDRAFT_102552
+Cvic_tig07	ena	gene	2079240	2081571	.	+	.	Name=COCVIDRAFT_21377;ID=gene:COCVIDRAFT_21377
+Cvic_tig07	ena	gene	1718076	1720404	.	-	.	ID=gene:COCVIDRAFT_110923
+Cvic_tig07	ena	gene	221399	223680	.	-	.	ID=gene:COCVIDRAFT_27743
+Cvic_tig07	ena	gene	1607300	1609564	.	-	.	ID=gene:COCVIDRAFT_109638
+Cvic_tig07	ena	gene	1439339	1441589	.	-	.	ID=gene:COCVIDRAFT_31402
+Cvic_tig07	ena	gene	323416	325641	.	+	.	ID=gene:COCVIDRAFT_27713
+Cvic_tig07	ena	gene	1592573	1594798	.	+	.	ID=gene:COCVIDRAFT_19289
+Cvic_tig07	ena	gene	1249460	1251673	.	+	.	ID=gene:COCVIDRAFT_36810
+Cvic_tig07	ena	gene	613311	615520	.	+	.	ID=gene:COCVIDRAFT_35358
+Cvic_tig07	ena	gene	1800027	1802232	.	+	.	ID=gene:COCVIDRAFT_30280
+Cvic_tig07	ena	gene	923936	926137	.	-	.	ID=gene:COCVIDRAFT_13750
+Cvic_tig07	ena	gene	1167570	1169768	.	-	.	ID=gene:COCVIDRAFT_96214
+Cvic_tig07	ena	gene	629671	631868	.	+	.	ID=gene:COCVIDRAFT_91943
+Cvic_tig07	ena	gene	43254	45436	.	-	.	ID=gene:COCVIDRAFT_115994
+Cvic_tig07	ena	gene	1032030	1034210	.	-	.	ID=gene:COCVIDRAFT_108558
+Cvic_tig07	ena	gene	1223883	1226037	.	-	.	ID=gene:COCVIDRAFT_36818
+Cvic_tig07	ena	gene	1402179	1404330	.	-	.	ID=gene:COCVIDRAFT_27635
+Cvic_tig07	ena	gene	1514380	1516524	.	-	.	ID=gene:COCVIDRAFT_109581
+Cvic_tig07	ena	gene	1780528	1782650	.	+	.	ID=gene:COCVIDRAFT_41507
+Cvic_tig07	ena	gene	758653	760772	.	-	.	ID=gene:COCVIDRAFT_92071
+Cvic_tig07	ena	gene	395564	397681	.	+	.	ID=gene:COCVIDRAFT_102571
+Cvic_tig07	ena	gene	1234461	1236572	.	-	.	ID=gene:COCVIDRAFT_96366
+Cvic_tig07	ena	gene	1584256	1586367	.	+	.	ID=gene:COCVIDRAFT_109587
+Cvic_tig07	ena	gene	1388452	1390560	.	+	.	ID=gene:COCVIDRAFT_38785
+Cvic_tig07	ena	gene	229394	231496	.	+	.	ID=gene:COCVIDRAFT_102616
+Cvic_tig07	ena	gene	527014	529108	.	-	.	ID=gene:COCVIDRAFT_104517
+Cvic_tig07	ena	gene	522367	524457	.	+	.	ID=gene:COCVIDRAFT_17688
+Cvic_tig07	ena	gene	1232124	1234210	.	+	.	ID=gene:COCVIDRAFT_15061
+Cvic_tig07	ena	gene	187731	189813	.	-	.	ID=gene:COCVIDRAFT_112260
+Cvic_tig07	ena	gene	515603	517679	.	-	.	ID=gene:COCVIDRAFT_17686
+Cvic_tig07	ena	gene	1063604	1065675	.	-	.	ID=gene:COCVIDRAFT_96245
+Cvic_tig07	ena	gene	1670088	1672144	.	+	.	ID=gene:COCVIDRAFT_110847
+Cvic_tig07	ena	gene	617699	619750	.	+	.	ID=gene:COCVIDRAFT_13645
+Cvic_tig07	ena	gene	1460593	1462644	.	-	.	ID=gene:COCVIDRAFT_42618
+Cvic_tig07	ena	gene	952943	954992	.	-	.	ID=gene:COCVIDRAFT_67538
+Cvic_tig07	ena	gene	892548	894594	.	-	.	ID=gene:COCVIDRAFT_91936
+Cvic_tig07	ena	gene	378906	380948	.	-	.	ID=gene:COCVIDRAFT_38855
+Cvic_tig07	ena	gene	183583	185619	.	-	.	ID=gene:COCVIDRAFT_112278
+Cvic_tig07	ena	gene	1547112	1549143	.	-	.	ID=gene:COCVIDRAFT_41166
+Cvic_tig07	ena	gene	1632585	1634607	.	+	.	ID=gene:COCVIDRAFT_115295
+Cvic_tig07	ena	gene	818084	820099	.	-	.	ID=gene:COCVIDRAFT_24340
+Cvic_tig07	ena	gene	1382220	1384231	.	+	.	ID=gene:COCVIDRAFT_38782
+Cvic_tig07	ena	gene	1766264	1768264	.	-	.	ID=gene:COCVIDRAFT_110632
+Cvic_tig07	ena	gene	1035755	1037754	.	+	.	ID=gene:COCVIDRAFT_40816
+Cvic_tig07	ena	gene	369011	371005	.	+	.	ID=gene:COCVIDRAFT_38858
+Cvic_tig07	ena	gene	604284	606273	.	-	.	ID=gene:COCVIDRAFT_35354
+Cvic_tig07	ena	gene	217924	219910	.	+	.	ID=gene:COCVIDRAFT_42064
+Cvic_tig07	ena	gene	749165	751146	.	-	.	ID=gene:COCVIDRAFT_35407
+Cvic_tig07	ena	gene	1096183	1098161	.	+	.	ID=gene:COCVIDRAFT_36862
+Cvic_tig07	ena	gene	626492	628469	.	-	.	ID=gene:COCVIDRAFT_91954
+Cvic_tig07	ena	gene	2028859	2030830	.	+	.	ID=gene:COCVIDRAFT_32067
+Cvic_tig07	ena	gene	1463716	1465679	.	+	.	ID=gene:COCVIDRAFT_31392
+Cvic_tig07	ena	gene	420655	422617	.	-	.	ID=gene:COCVIDRAFT_28307
+Cvic_tig07	ena	gene	362470	364419	.	+	.	ID=gene:COCVIDRAFT_102569
+Cvic_tig07	ena	gene	832918	834865	.	-	.	ID=gene:COCVIDRAFT_92061
+Cvic_tig07	ena	gene	1048080	1050023	.	-	.	ID=gene:COCVIDRAFT_40811
+Cvic_tig07	ena	gene	47089	49019	.	+	.	ID=gene:COCVIDRAFT_115999
+Cvic_tig07	ena	gene	245366	247292	.	+	.	ID=gene:COCVIDRAFT_17101
+Cvic_tig07	ena	gene	1794826	1796746	.	+	.	ID=gene:COCVIDRAFT_110562
+Cvic_tig07	ena	gene	562522	564439	.	+	.	ID=gene:COCVIDRAFT_104522
+Cvic_tig07	ena	gene	1695672	1697585	.	+	.	ID=gene:COCVIDRAFT_19671
+Cvic_tig07	ena	gene	912972	914884	.	+	.	ID=gene:COCVIDRAFT_92124
+Cvic_tig07	ena	gene	1165429	1167340	.	+	.	ID=gene:COCVIDRAFT_36840
+Cvic_tig07	ena	gene	1089699	1091608	.	+	.	ID=gene:COCVIDRAFT_15104
+Cvic_tig07	ena	gene	207504	209407	.	+	.	ID=gene:COCVIDRAFT_112301
+Cvic_tig07	ena	gene	269169	271062	.	+	.	ID=gene:COCVIDRAFT_102586
+Cvic_tig07	ena	gene	1216768	1218632	.	+	.	ID=gene:COCVIDRAFT_96323
+Cvic_tig07	ena	gene	1754025	1755881	.	-	.	ID=gene:COCVIDRAFT_19596
+Cvic_tig07	ena	gene	300733	302586	.	-	.	ID=gene:COCVIDRAFT_102611
+Cvic_tig07	ena	gene	1792158	1794009	.	+	.	ID=gene:COCVIDRAFT_110590
+Cvic_tig07	ena	gene	1626846	1628697	.	+	.	ID=gene:COCVIDRAFT_21076
+Cvic_tig07	ena	gene	860718	862567	.	-	.	ID=gene:COCVIDRAFT_92130
+Cvic_tig07	ena	gene	537939	539784	.	-	.	ID=gene:COCVIDRAFT_39520
+Cvic_tig07	ena	gene	813849	815693	.	+	.	ID=gene:COCVIDRAFT_13713
+Cvic_tig07	ena	gene	1197489	1199327	.	-	.	ID=gene:COCVIDRAFT_96336
+Cvic_tig07	ena	gene	295983	297821	.	-	.	ID=gene:COCVIDRAFT_102627
+Cvic_tig07	ena	gene	1411553	1413388	.	+	.	ID=gene:COCVIDRAFT_27637
+Cvic_tig07	ena	gene	1378546	1380379	.	+	.	ID=gene:COCVIDRAFT_38780
+Cvic_tig07	ena	gene	623418	625250	.	+	.	ID=gene:COCVIDRAFT_24269
+Cvic_tig07	ena	gene	1859844	1861673	.	+	.	ID=gene:COCVIDRAFT_116609
+Cvic_tig07	ena	gene	807526	809354	.	-	.	ID=gene:COCVIDRAFT_35431
+Cvic_tig07	ena	gene	1311140	1312967	.	+	.	ID=gene:COCVIDRAFT_25661
+Cvic_tig07	ena	gene	948363	950189	.	+	.	ID=gene:COCVIDRAFT_40833
+Cvic_tig07	ena	gene	1449606	1451432	.	+	.	ID=gene:COCVIDRAFT_20683
+Cvic_tig07	ena	gene	633081	634899	.	+	.	ID=gene:COCVIDRAFT_35366
+Cvic_tig07	ena	gene	33391	35206	.	-	.	ID=gene:COCVIDRAFT_116513
+Cvic_tig07	ena	gene	1098608	1100422	.	+	.	ID=gene:COCVIDRAFT_96466
+Cvic_tig07	ena	gene	170544	172352	.	-	.	ID=gene:COCVIDRAFT_112236
+Cvic_tig07	ena	gene	2054668	2056476	.	+	.	Name=COCVIDRAFT_43041_NADPH_oxidase;ID=gene:COCVIDRAFT_43041
+Cvic_tig07	ena	gene	1588484	1590291	.	-	.	ID=gene:COCVIDRAFT_41182
+Cvic_tig07	ena	gene	1370548	1372347	.	-	.	ID=gene:COCVIDRAFT_102325
+Cvic_tig07	ena	gene	1435888	1437676	.	+	.	ID=gene:COCVIDRAFT_42629
+Cvic_tig07	ena	gene	698172	699926	.	-	.	ID=gene:COCVIDRAFT_24294
+Cvic_tig07	ena	gene	1087514	1089267	.	+	.	ID=gene:COCVIDRAFT_15105
+Cvic_tig07	ena	gene	647940	649679	.	-	.	ID=gene:COCVIDRAFT_13657
+Cvic_tig07	ena	gene	172908	174647	.	-	.	ID=gene:COCVIDRAFT_42048
+Cvic_tig07	ena	gene	13554	15287	.	-	.	ID=gene:COCVIDRAFT_32032
+Cvic_tig07	ena	gene	1330139	1331870	.	+	.	ID=gene:COCVIDRAFT_96481
+Cvic_tig07	ena	gene	792747	794477	.	-	.	ID=gene:COCVIDRAFT_35422
+Cvic_tig07	ena	gene	1203456	1205179	.	+	.	ID=gene:COCVIDRAFT_96502
+Cvic_tig07	ena	gene	753809	755524	.	-	.	ID=gene:COCVIDRAFT_92142
+Cvic_tig07	ena	gene	1836848	1838560	.	+	.	ID=gene:COCVIDRAFT_19575
+Cvic_tig07	ena	gene	828916	830625	.	+	.	ID=gene:COCVIDRAFT_92089
+Cvic_tig07	ena	gene	950750	952447	.	-	.	ID=gene:COCVIDRAFT_18962
+Cvic_tig07	ena	gene	1003056	1004751	.	-	.	ID=gene:COCVIDRAFT_18950
+Cvic_tig07	ena	gene	1455752	1457446	.	+	.	ID=gene:COCVIDRAFT_20680
+Cvic_tig07	ena	gene	1576000	1577687	.	+	.	ID=gene:COCVIDRAFT_41176
+Cvic_tig07	ena	gene	164386	166066	.	-	.	ID=gene:COCVIDRAFT_30823
+Cvic_tig07	ena	gene	873200	874873	.	+	.	ID=gene:COCVIDRAFT_24359
+Cvic_tig07	ena	gene	1340300	1341970	.	-	.	ID=gene:COCVIDRAFT_96375
+Cvic_tig07	ena	gene	446742	448409	.	+	.	ID=gene:COCVIDRAFT_104481
+Cvic_tig07	ena	gene	1842573	1844240	.	+	.	ID=gene:COCVIDRAFT_110565
+Cvic_tig07	ena	gene	1656350	1658013	.	+	.	ID=gene:COCVIDRAFT_42995
+Cvic_tig07	ena	gene	1958829	1960490	.	+	.	ID=gene:COCVIDRAFT_115792
+Cvic_tig07	ena	gene	1621705	1623363	.	-	.	ID=gene:COCVIDRAFT_32043
+Cvic_tig07	ena	gene	810589	812246	.	+	.	ID=gene:COCVIDRAFT_13711
+Cvic_tig07	ena	gene	680756	682411	.	+	.	ID=gene:COCVIDRAFT_92171
+Cvic_tig07	ena	gene	1243730	1245383	.	-	.	ID=gene:COCVIDRAFT_36811
+Cvic_tig07	ena	gene	1227231	1228883	.	-	.	ID=gene:COCVIDRAFT_96400
+Cvic_tig07	ena	gene	1368138	1369783	.	+	.	ID=gene:COCVIDRAFT_38776
+Cvic_tig07	ena	gene	227156	228799	.	-	.	ID=gene:COCVIDRAFT_102504
+Cvic_tig07	ena	gene	1674023	1675664	.	-	.	ID=gene:COCVIDRAFT_110852
+Cvic_tig07	ena	gene	41545	43173	.	+	.	ID=gene:COCVIDRAFT_43174
+Cvic_tig07	ena	gene	547181	548806	.	-	.	ID=gene:COCVIDRAFT_104397
+Cvic_tig07	ena	gene	461910	463531	.	+	.	ID=gene:COCVIDRAFT_39492
+Cvic_tig07	ena	gene	1124991	1126611	.	+	.	ID=gene:COCVIDRAFT_25713
+Cvic_tig07	ena	gene	1839668	1841274	.	-	.	ID=gene:COCVIDRAFT_41490
+Cvic_tig07	ena	gene	129371	130965	.	-	.	ID=gene:COCVIDRAFT_31934
+Cvic_tig07	ena	gene	1386034	1387627	.	+	.	ID=gene:COCVIDRAFT_27632
+Cvic_tig07	ena	gene	1040423	1042015	.	-	.	ID=gene:COCVIDRAFT_108527
+Cvic_tig07	ena	gene	180002	181594	.	-	.	ID=gene:COCVIDRAFT_42049
+Cvic_tig07	ena	gene	1365647	1367231	.	+	.	ID=gene:COCVIDRAFT_102455
+Cvic_tig07	ena	gene	770857	772439	.	+	.	ID=gene:COCVIDRAFT_91917
+Cvic_tig07	ena	gene	238987	240561	.	-	.	ID=gene:COCVIDRAFT_38902
+Cvic_tig07	ena	gene	556914	558485	.	+	.	ID=gene:COCVIDRAFT_39529
+Cvic_tig07	ena	gene	1828276	1829847	.	+	.	ID=gene:COCVIDRAFT_41494
+Cvic_tig07	ena	gene	451420	452990	.	+	.	ID=gene:COCVIDRAFT_39487
+Cvic_tig07	ena	gene	399748	401317	.	+	.	ID=gene:COCVIDRAFT_17047
+Cvic_tig07	ena	gene	531494	533060	.	+	.	ID=gene:COCVIDRAFT_39517
+Cvic_tig07	ena	gene	1699960	1701522	.	-	.	ID=gene:COCVIDRAFT_19673
+Cvic_tig07	ena	gene	1997891	1999445	.	+	.	ID=gene:COCVIDRAFT_115014
+Cvic_tig07	ena	gene	1019787	1021337	.	+	.	ID=gene:COCVIDRAFT_29621
+Cvic_tig07	ena	gene	815802	817346	.	-	.	ID=gene:COCVIDRAFT_92112
+Cvic_tig07	ena	gene	1954801	1956340	.	-	.	ID=gene:COCVIDRAFT_31906
+Cvic_tig07	ena	gene	751980	753518	.	+	.	ID=gene:COCVIDRAFT_13687
+Cvic_tig07	ena	gene	696461	697997	.	-	.	ID=gene:COCVIDRAFT_91857
+Cvic_tig07	ena	gene	312930	314461	.	+	.	ID=gene:COCVIDRAFT_102514
+Cvic_tig07	ena	gene	899957	901475	.	+	.	ID=gene:COCVIDRAFT_92094
+Cvic_tig07	ena	gene	1130742	1132259	.	-	.	ID=gene:COCVIDRAFT_15094
+Cvic_tig07	ena	gene	781685	783198	.	+	.	ID=gene:COCVIDRAFT_13699
+Cvic_tig07	ena	gene	485475	486985	.	+	.	ID=gene:COCVIDRAFT_17678
+Cvic_tig07	ena	gene	347321	348821	.	-	.	ID=gene:COCVIDRAFT_27709
+Cvic_tig07	ena	gene	1006404	1007903	.	-	.	ID=gene:COCVIDRAFT_108575
+Cvic_tig07	ena	gene	969099	970596	.	+	.	ID=gene:COCVIDRAFT_29633
+Cvic_tig07	ena	gene	1776154	1777644	.	+	.	ID=gene:COCVIDRAFT_110641
+Cvic_tig07	ena	gene	1256552	1258036	.	-	.	ID=gene:COCVIDRAFT_25674
+Cvic_tig07	ena	gene	824829	826311	.	-	.	ID=gene:COCVIDRAFT_92111
+Cvic_tig07	ena	gene	1733454	1734932	.	+	.	ID=gene:COCVIDRAFT_110867
+Cvic_tig07	ena	gene	1344655	1346126	.	+	.	ID=gene:COCVIDRAFT_96423
+Cvic_tig07	ena	gene	287873	289342	.	-	.	ID=gene:COCVIDRAFT_17086
+Cvic_tig07	ena	gene	610394	611855	.	+	.	ID=gene:COCVIDRAFT_92002
+Cvic_tig07	ena	gene	1333580	1335041	.	-	.	ID=gene:COCVIDRAFT_96223
+Cvic_tig07	ena	gene	607422	608881	.	-	.	ID=gene:COCVIDRAFT_13641
+Cvic_tig07	ena	gene	387110	388567	.	+	.	ID=gene:COCVIDRAFT_38852
+Cvic_tig07	ena	gene	598395	599851	.	+	.	ID=gene:COCVIDRAFT_13638
+Cvic_tig07	ena	gene	1756471	1757912	.	+	.	ID=gene:COCVIDRAFT_30296
+Cvic_tig07	ena	gene	895804	897240	.	+	.	ID=gene:COCVIDRAFT_24367
+Cvic_tig07	ena	gene	254843	256279	.	-	.	ID=gene:COCVIDRAFT_102487
+Cvic_tig07	ena	gene	196273	197704	.	+	.	ID=gene:COCVIDRAFT_42056
+Cvic_tig07	ena	gene	455545	456972	.	-	.	ID=gene:COCVIDRAFT_17667
+Cvic_tig07	ena	gene	285054	286478	.	-	.	ID=gene:COCVIDRAFT_17087
+Cvic_tig07	ena	gene	329319	330738	.	-	.	ID=gene:COCVIDRAFT_38872
+Cvic_tig07	ena	gene	493214	494633	.	-	.	ID=gene:COCVIDRAFT_104538
+Cvic_tig07	ena	gene	2048549	2049967	.	-	.	ID=gene:COCVIDRAFT_31827
+Cvic_tig07	ena	gene	1346700	1348111	.	+	.	ID=gene:COCVIDRAFT_96344
+Cvic_tig07	ena	gene	957154	958561	.	+	.	ID=gene:COCVIDRAFT_68305
+Cvic_tig07	ena	gene	1646598	1647992	.	+	.	ID=gene:COCVIDRAFT_115319
+Cvic_tig07	ena	gene	2070102	2071493	.	-	.	ID=gene:COCVIDRAFT_116136
+Cvic_tig07	ena	gene	1809422	1810810	.	+	.	ID=gene:COCVIDRAFT_110619
+Cvic_tig07	ena	gene	890990	892374	.	+	.	ID=gene:COCVIDRAFT_35462
+Cvic_tig07	ena	gene	779536	780919	.	+	.	ID=gene:COCVIDRAFT_24323
+Cvic_tig07	ena	gene	922023	923405	.	+	.	ID=gene:COCVIDRAFT_24375
+Cvic_tig07	ena	gene	276775	278152	.	-	.	ID=gene:COCVIDRAFT_102563
+Cvic_tig07	ena	gene	559923	561300	.	+	.	ID=gene:COCVIDRAFT_104519
+Cvic_tig07	ena	gene	1188047	1189422	.	+	.	ID=gene:COCVIDRAFT_25695
+Cvic_tig07	ena	gene	1119175	1120548	.	-	.	ID=gene:COCVIDRAFT_96402
+Cvic_tig07	ena	gene	476042	477410	.	-	.	ID=gene:COCVIDRAFT_28326
+Cvic_tig07	ena	gene	1100788	1102155	.	-	.	ID=gene:COCVIDRAFT_96475
+Cvic_tig07	ena	gene	1375650	1377017	.	-	.	ID=gene:COCVIDRAFT_102303
+Cvic_tig07	ena	gene	299131	300497	.	+	.	ID=gene:COCVIDRAFT_38882
+Cvic_tig07	ena	gene	1701805	1703171	.	-	.	ID=gene:COCVIDRAFT_30378
+Cvic_tig07	ena	gene	1676507	1677870	.	-	.	ID=gene:COCVIDRAFT_19665
+Cvic_tig07	ena	gene	725067	726425	.	+	.	ID=gene:COCVIDRAFT_91924
+Cvic_tig07	ena	gene	1342662	1344020	.	-	.	ID=gene:COCVIDRAFT_15031
+Cvic_tig07	ena	gene	1209458	1210814	.	-	.	ID=gene:COCVIDRAFT_96285
+Cvic_tig07	ena	gene	1988827	1990183	.	+	.	ID=gene:COCVIDRAFT_42919
+Cvic_tig07	ena	gene	882433	883783	.	+	.	ID=gene:COCVIDRAFT_13735
+Cvic_tig07	ena	gene	256497	257837	.	+	.	ID=gene:COCVIDRAFT_17095
+Cvic_tig07	ena	gene	755807	757141	.	+	.	ID=gene:COCVIDRAFT_92210
+Cvic_tig07	ena	gene	156743	158075	.	-	.	ID=gene:COCVIDRAFT_30821
+Cvic_tig07	ena	gene	252551	253879	.	+	.	ID=gene:COCVIDRAFT_27733
+Cvic_tig07	ena	gene	1543938	1545266	.	-	.	ID=gene:COCVIDRAFT_41164
+Cvic_tig07	ena	gene	1516807	1518132	.	+	.	ID=gene:COCVIDRAFT_19263
+Cvic_tig07	ena	gene	1641553	1642878	.	+	.	ID=gene:COCVIDRAFT_43003
+Cvic_tig07	ena	gene	443977	445301	.	-	.	ID=gene:COCVIDRAFT_28313
+Cvic_tig07	ena	gene	1307803	1309125	.	+	.	ID=gene:COCVIDRAFT_25662
+Cvic_tig07	ena	gene	466661	467982	.	-	.	ID=gene:COCVIDRAFT_104494
+Cvic_tig07	ena	gene	1687148	1688469	.	+	.	ID=gene:COCVIDRAFT_19668
+Cvic_tig07	ena	gene	967292	968606	.	-	.	ID=gene:COCVIDRAFT_108556
+Cvic_tig07	ena	gene	401762	403064	.	-	.	ID=gene:COCVIDRAFT_102547
+Cvic_tig07	ena	gene	1335475	1336774	.	+	.	ID=gene:COCVIDRAFT_36788
+Cvic_tig07	ena	gene	1557275	1558572	.	+	.	ID=gene:COCVIDRAFT_109583
+Cvic_tig07	ena	gene	1672663	1673956	.	+	.	ID=gene:COCVIDRAFT_30367
+Cvic_tig07	ena	gene	349089	350375	.	+	.	ID=gene:COCVIDRAFT_27708
+Cvic_tig07	ena	gene	615809	617092	.	-	.	ID=gene:COCVIDRAFT_24265
+Cvic_tig07	ena	gene	1603902	1605180	.	+	.	ID=gene:COCVIDRAFT_109556
+Cvic_tig07	ena	gene	1043832	1045107	.	-	.	ID=gene:COCVIDRAFT_108528
+Cvic_tig07	ena	gene	1468415	1469689	.	+	.	ID=gene:COCVIDRAFT_42615
+Cvic_tig07	ena	gene	1174897	1176167	.	+	.	ID=gene:COCVIDRAFT_96241
+Cvic_tig07	ena	gene	897963	899229	.	+	.	ID=gene:COCVIDRAFT_91855
+Cvic_tig07	ena	gene	304779	306045	.	+	.	ID=gene:COCVIDRAFT_17081
+Cvic_tig07	ena	gene	250750	252010	.	-	.	ID=gene:COCVIDRAFT_102561
+Cvic_tig07	ena	gene	2031048	2032308	.	-	.	ID=gene:COCVIDRAFT_43254
+Cvic_tig07	ena	gene	1195825	1197079	.	-	.	ID=gene:COCVIDRAFT_36828
+Cvic_tig07	ena	gene	1322809	1324063	.	-	.	ID=gene:COCVIDRAFT_96230
+Cvic_tig07	ena	gene	143307	144560	.	-	.	ID=gene:COCVIDRAFT_112274
+Cvic_tig07	ena	gene	854093	855342	.	+	.	ID=gene:COCVIDRAFT_24353
+Cvic_tig07	ena	gene	423514	424763	.	+	.	ID=gene:COCVIDRAFT_17657
+Cvic_tig07	ena	gene	1284337	1285580	.	-	.	ID=gene:COCVIDRAFT_36802
+Cvic_tig07	ena	gene	1732006	1733249	.	-	.	ID=gene:COCVIDRAFT_110887
+Cvic_tig07	ena	gene	1970816	1972059	.	+	.	ID=gene:COCVIDRAFT_31696
+Cvic_tig07	ena	gene	259668	260909	.	+	.	ID=gene:COCVIDRAFT_102568
+Cvic_tig07	ena	gene	520378	521615	.	-	.	ID=gene:COCVIDRAFT_28342
+Cvic_tig07	ena	gene	1297757	1298989	.	-	.	ID=gene:COCVIDRAFT_36798
+Cvic_tig07	ena	gene	1694091	1695323	.	-	.	ID=gene:COCVIDRAFT_19670
+Cvic_tig07	ena	gene	1533999	1535228	.	-	.	ID=gene:COCVIDRAFT_19265
+Cvic_tig07	ena	gene	1595856	1597078	.	+	.	ID=gene:COCVIDRAFT_19290
+Cvic_tig07	ena	gene	332089	333307	.	+	.	ID=gene:COCVIDRAFT_17074
+Cvic_tig07	ena	gene	1995662	1996880	.	+	.	ID=gene:COCVIDRAFT_20979
+Cvic_tig07	ena	gene	1573604	1574820	.	-	.	ID=gene:COCVIDRAFT_41175
+Cvic_tig07	ena	gene	529483	530693	.	+	.	ID=gene:COCVIDRAFT_104461
+Cvic_tig07	ena	gene	425376	426583	.	+	.	ID=gene:COCVIDRAFT_17658
+Cvic_tig07	ena	gene	39777	40984	.	-	.	ID=gene:COCVIDRAFT_31964
+Cvic_tig07	ena	gene	542522	543727	.	-	.	ID=gene:COCVIDRAFT_104393
+Cvic_tig07	ena	gene	360501	361701	.	-	.	ID=gene:COCVIDRAFT_102572
+Cvic_tig07	ena	gene	650623	651821	.	+	.	ID=gene:COCVIDRAFT_35374
+Cvic_tig07	ena	gene	159413	160608	.	+	.	ID=gene:COCVIDRAFT_30822
+Cvic_tig07	ena	gene	747674	748858	.	+	.	ID=gene:COCVIDRAFT_91972
+Cvic_tig07	ena	gene	1051600	1052784	.	+	.	ID=gene:COCVIDRAFT_40810
+Cvic_tig07	ena	gene	1797359	1798538	.	-	.	ID=gene:COCVIDRAFT_41501
+Cvic_tig07	ena	gene	1145186	1146358	.	-	.	ID=gene:COCVIDRAFT_25708
+Cvic_tig07	ena	gene	1679855	1681025	.	+	.	ID=gene:COCVIDRAFT_41593
+Cvic_tig07	ena	gene	1591118	1592285	.	+	.	ID=gene:COCVIDRAFT_109611
+Cvic_tig07	ena	gene	353295	354460	.	+	.	ID=gene:COCVIDRAFT_17068
+Cvic_tig07	ena	gene	1643843	1645008	.	+	.	ID=gene:COCVIDRAFT_31788
+Cvic_tig07	ena	gene	730331	731491	.	+	.	ID=gene:COCVIDRAFT_92205
+Cvic_tig07	ena	gene	235235	236395	.	-	.	ID=gene:COCVIDRAFT_38903
+Cvic_tig07	ena	gene	1229794	1230944	.	-	.	ID=gene:COCVIDRAFT_36816
+Cvic_tig07	ena	gene	216092	217241	.	+	.	ID=gene:COCVIDRAFT_112288
+Cvic_tig07	ena	gene	1758406	1759548	.	-	.	ID=gene:COCVIDRAFT_19594
+Cvic_tig07	ena	gene	205239	206381	.	-	.	ID=gene:COCVIDRAFT_51512
+Cvic_tig07	ena	gene	1571855	1572992	.	+	.	ID=gene:COCVIDRAFT_29961
+Cvic_tig07	ena	gene	1466637	1467774	.	+	.	ID=gene:COCVIDRAFT_114055
+Cvic_tig07	ena	gene	945199	946335	.	-	.	ID=gene:COCVIDRAFT_40834
+Cvic_tig07	ena	gene	1649617	1650753	.	-	.	ID=gene:COCVIDRAFT_42998
+Cvic_tig07	ena	gene	621909	623044	.	-	.	ID=gene:COCVIDRAFT_92110
+Cvic_tig07	ena	gene	309753	310886	.	-	.	ID=gene:COCVIDRAFT_17080
+Cvic_tig07	ena	gene	449857	450990	.	+	.	ID=gene:COCVIDRAFT_39486
+Cvic_tig07	ena	gene	695193	696320	.	+	.	ID=gene:COCVIDRAFT_13669
+Cvic_tig07	ena	gene	544311	545438	.	+	.	ID=gene:COCVIDRAFT_104492
+Cvic_tig07	ena	gene	359305	360431	.	+	.	ID=gene:COCVIDRAFT_102509
+Cvic_tig07	ena	gene	717115	718230	.	+	.	ID=gene:COCVIDRAFT_92046
+Cvic_tig07	ena	gene	513452	514564	.	+	.	ID=gene:COCVIDRAFT_104365
+Cvic_tig07	ena	gene	1143109	1144218	.	+	.	ID=gene:COCVIDRAFT_96382
+Cvic_tig07	ena	gene	1761874	1762981	.	+	.	ID=gene:COCVIDRAFT_110623
+Cvic_tig07	ena	gene	1211341	1212438	.	-	.	ID=gene:COCVIDRAFT_96464
+Cvic_tig07	ena	gene	241587	242684	.	+	.	ID=gene:COCVIDRAFT_38901
+Cvic_tig07	ena	gene	1668064	1669156	.	+	.	ID=gene:COCVIDRAFT_110906
+Cvic_tig07	ena	gene	1332061	1333147	.	-	.	ID=gene:COCVIDRAFT_15036
+Cvic_tig07	ena	gene	689725	690808	.	-	.	ID=gene:COCVIDRAFT_35386
+Cvic_tig07	ena	gene	836476	837553	.	-	.	ID=gene:COCVIDRAFT_92185
+Cvic_tig07	ena	gene	453968	455042	.	-	.	ID=gene:COCVIDRAFT_39489
+Cvic_tig07	ena	gene	1349246	1350310	.	+	.	ID=gene:COCVIDRAFT_74268
+Cvic_tig07	ena	gene	1790635	1791699	.	-	.	ID=gene:COCVIDRAFT_30285
+Cvic_tig07	ena	gene	742755	743818	.	-	.	ID=gene:COCVIDRAFT_92030
+Cvic_tig07	ena	gene	1103472	1104532	.	+	.	ID=gene:COCVIDRAFT_25719
+Cvic_tig07	ena	gene	1648157	1649214	.	-	.	ID=gene:COCVIDRAFT_42999
+Cvic_tig07	ena	gene	1213140	1214195	.	-	.	ID=gene:COCVIDRAFT_15067
+Cvic_tig07	ena	gene	831374	832428	.	+	.	ID=gene:COCVIDRAFT_92116
+Cvic_tig07	ena	gene	231890	232944	.	+	.	ID=gene:COCVIDRAFT_17106
+Cvic_tig07	ena	gene	643962	645011	.	+	.	ID=gene:COCVIDRAFT_35370
+Cvic_tig07	ena	gene	540078	541124	.	+	.	ID=gene:COCVIDRAFT_39521
+Cvic_tig07	ena	gene	1586589	1587632	.	-	.	ID=gene:COCVIDRAFT_109594
+Cvic_tig07	ena	gene	1903139	1904181	.	+	.	ID=gene:COCVIDRAFT_43167
+Cvic_tig07	ena	gene	1725178	1726216	.	+	.	ID=gene:COCVIDRAFT_30387
+Cvic_tig07	ena	gene	859455	860492	.	+	.	ID=gene:COCVIDRAFT_64874
+Cvic_tig07	ena	gene	883856	884893	.	-	.	ID=gene:COCVIDRAFT_91934
+Cvic_tig07	ena	gene	214026	215063	.	+	.	ID=gene:COCVIDRAFT_112254
+Cvic_tig07	ena	gene	990636	991672	.	-	.	ID=gene:COCVIDRAFT_18954
+Cvic_tig07	ena	gene	642160	643191	.	-	.	ID=gene:COCVIDRAFT_91920
+Cvic_tig07	ena	gene	941474	942496	.	+	.	ID=gene:COCVIDRAFT_29641
+Cvic_tig07	ena	gene	1895604	1896626	.	+	.	ID=gene:COCVIDRAFT_32018
+Cvic_tig07	ena	gene	204004	205025	.	+	.	ID=gene:COCVIDRAFT_20128
+Cvic_tig07	ena	gene	1380587	1381604	.	-	.	ID=gene:COCVIDRAFT_102387
+Cvic_tig07	ena	gene	1901771	1902787	.	-	.	ID=gene:COCVIDRAFT_43168
+Cvic_tig07	ena	gene	1028998	1030008	.	+	.	ID=gene:COCVIDRAFT_108576
+Cvic_tig07	ena	gene	1269860	1270868	.	+	.	ID=gene:COCVIDRAFT_36805
+Cvic_tig07	ena	gene	1570491	1571495	.	-	.	ID=gene:COCVIDRAFT_41173
+Cvic_tig07	ena	gene	944025	945024	.	+	.	ID=gene:COCVIDRAFT_108561
+Cvic_tig07	ena	gene	902337	903331	.	-	.	ID=gene:COCVIDRAFT_13742
+Cvic_tig07	ena	gene	864199	865190	.	-	.	ID=gene:COCVIDRAFT_92123
+Cvic_tig07	ena	gene	1384494	1385482	.	-	.	ID=gene:COCVIDRAFT_102274
+Cvic_tig07	ena	gene	1726325	1727311	.	-	.	ID=gene:COCVIDRAFT_30388
+Cvic_tig07	ena	gene	1545697	1546681	.	-	.	ID=gene:COCVIDRAFT_19270
+Cvic_tig07	ena	gene	718479	719459	.	-	.	ID=gene:COCVIDRAFT_92201
+Cvic_tig07	ena	gene	36023	37003	.	+	.	ID=gene:COCVIDRAFT_32073
+Cvic_tig07	ena	gene	355179	356156	.	+	.	ID=gene:COCVIDRAFT_102512
+Cvic_tig07	ena	gene	1038589	1039564	.	+	.	ID=gene:COCVIDRAFT_18941
+Cvic_tig07	ena	gene	394014	394986	.	-	.	ID=gene:COCVIDRAFT_27690
+Cvic_tig07	ena	gene	334439	335410	.	+	.	ID=gene:COCVIDRAFT_17073
+Cvic_tig07	ena	gene	1267811	1268781	.	+	.	ID=gene:COCVIDRAFT_36806
+Cvic_tig07	ena	gene	1076429	1077395	.	+	.	ID=gene:COCVIDRAFT_25727
+Cvic_tig07	ena	gene	1752624	1753585	.	+	.	ID=gene:COCVIDRAFT_30298
+Cvic_tig07	ena	gene	1577894	1578853	.	-	.	ID=gene:COCVIDRAFT_109593
+Cvic_tig07	ena	gene	1523532	1524488	.	-	.	ID=gene:COCVIDRAFT_109622
+Cvic_tig07	ena	gene	1453814	1454764	.	-	.	ID=gene:COCVIDRAFT_114061
+Cvic_tig07	ena	gene	502439	503388	.	-	.	ID=gene:COCVIDRAFT_28336
+Cvic_tig07	ena	gene	1542668	1543615	.	+	.	ID=gene:COCVIDRAFT_109602
+Cvic_tig07	ena	gene	645339	646285	.	-	.	ID=gene:COCVIDRAFT_35371
+Cvic_tig07	ena	gene	992331	993272	.	+	.	ID=gene:COCVIDRAFT_18953
+Cvic_tig07	ena	gene	1086113	1087053	.	-	.	ID=gene:COCVIDRAFT_25725
+Cvic_tig07	ena	gene	266280	267219	.	-	.	ID=gene:COCVIDRAFT_17092
+Cvic_tig07	ena	gene	1413455	1414392	.	-	.	ID=gene:COCVIDRAFT_27638
+Cvic_tig07	ena	gene	1283052	1283988	.	-	.	ID=gene:COCVIDRAFT_15048
+Cvic_tig07	ena	gene	1905197	1906132	.	-	.	ID=gene:COCVIDRAFT_115954
+Cvic_tig07	ena	gene	167266	168199	.	-	.	ID=gene:COCVIDRAFT_112265
+Cvic_tig07	ena	gene	289631	290562	.	+	.	ID=gene:COCVIDRAFT_17085
+Cvic_tig07	ena	gene	1074380	1075304	.	+	.	ID=gene:COCVIDRAFT_15109
+Cvic_tig07	ena	gene	1605899	1606823	.	-	.	ID=gene:COCVIDRAFT_41188
+Cvic_tig07	ena	gene	803431	804350	.	-	.	ID=gene:COCVIDRAFT_24332
+Cvic_tig07	ena	gene	727709	728623	.	+	.	ID=gene:COCVIDRAFT_92078
+Cvic_tig07	ena	gene	1277953	1278864	.	+	.	ID=gene:COCVIDRAFT_96242
+Cvic_tig07	ena	gene	311398	312303	.	-	.	ID=gene:COCVIDRAFT_102639
+Cvic_tig07	ena	gene	1569331	1570236	.	+	.	ID=gene:COCVIDRAFT_109626
+Cvic_tig07	ena	gene	525607	526509	.	+	.	ID=gene:COCVIDRAFT_104506
+Cvic_tig07	ena	gene	1807817	1808719	.	-	.	ID=gene:COCVIDRAFT_110636
+Cvic_tig07	ena	gene	1067875	1068774	.	-	.	ID=gene:COCVIDRAFT_36872
+Cvic_tig07	ena	gene	885433	886329	.	-	.	ID=gene:COCVIDRAFT_24364
+Cvic_tig07	ena	gene	802168	803063	.	+	.	ID=gene:COCVIDRAFT_35427
+Cvic_tig07	ena	gene	1313633	1314525	.	+	.	ID=gene:COCVIDRAFT_96250
+Cvic_tig07	ena	gene	1722586	1723473	.	+	.	ID=gene:COCVIDRAFT_19681
+Cvic_tig07	ena	gene	398312	399197	.	-	.	ID=gene:COCVIDRAFT_102555
+Cvic_tig07	ena	gene	795602	796486	.	+	.	ID=gene:COCVIDRAFT_92093
+Cvic_tig07	ena	gene	1803979	1804863	.	+	.	ID=gene:COCVIDRAFT_41499
+Cvic_tig07	ena	gene	1431286	1432170	.	+	.	ID=gene:COCVIDRAFT_114062
+Cvic_tig07	ena	gene	2033465	2034346	.	+	.	ID=gene:COCVIDRAFT_32069
+Cvic_tig07	ena	gene	414104	414983	.	+	.	ID=gene:COCVIDRAFT_104390
+Cvic_tig07	ena	gene	416189	417067	.	+	.	ID=gene:COCVIDRAFT_104466
+Cvic_tig07	ena	gene	1697790	1698668	.	-	.	ID=gene:COCVIDRAFT_19672
+Cvic_tig07	ena	gene	1833274	1834148	.	-	.	ID=gene:COCVIDRAFT_41492
+Cvic_tig07	ena	gene	1555724	1556592	.	+	.	ID=gene:COCVIDRAFT_41168
+Cvic_tig07	ena	gene	365665	366528	.	+	.	ID=gene:COCVIDRAFT_102477
+Cvic_tig07	ena	gene	464319	465179	.	+	.	ID=gene:COCVIDRAFT_39493
+Cvic_tig07	ena	gene	826993	827852	.	+	.	ID=gene:COCVIDRAFT_24343
+Cvic_tig07	ena	gene	620180	621037	.	-	.	ID=gene:COCVIDRAFT_35361
+Cvic_tig07	ena	gene	316745	317602	.	+	.	ID=gene:COCVIDRAFT_38876
+Cvic_tig07	ena	gene	546121	546978	.	-	.	ID=gene:COCVIDRAFT_39524
+Cvic_tig07	ena	gene	366604	367460	.	-	.	ID=gene:COCVIDRAFT_102613
+Cvic_tig07	ena	gene	741512	742366	.	-	.	ID=gene:COCVIDRAFT_35402
+Cvic_tig07	ena	gene	1286281	1287132	.	-	.	ID=gene:COCVIDRAFT_15046
+Cvic_tig07	ena	gene	1950864	1951715	.	+	.	ID=gene:COCVIDRAFT_115774
+Cvic_tig07	ena	gene	640717	641556	.	+	.	ID=gene:COCVIDRAFT_62392
+Cvic_tig07	ena	gene	195436	196274	.	-	.	ID=gene:COCVIDRAFT_112299
+Cvic_tig07	ena	gene	501535	502372	.	+	.	ID=gene:COCVIDRAFT_17683
+Cvic_tig07	ena	gene	1898314	1899147	.	-	.	ID=gene:COCVIDRAFT_116272
+Cvic_tig07	ena	gene	1597272	1598099	.	-	.	ID=gene:COCVIDRAFT_109632
+Cvic_tig07	ena	gene	603004	603822	.	-	.	ID=gene:COCVIDRAFT_13639
+Cvic_tig07	ena	gene	1407226	1408044	.	-	.	ID=gene:COCVIDRAFT_102264
+Cvic_tig07	ena	gene	84790	85605	.	+	.	ID=gene:COCVIDRAFT_116282
+Cvic_tig07	ena	gene	1200974	1201786	.	+	.	ID=gene:COCVIDRAFT_25689
+Cvic_tig07	ena	gene	364666	365470	.	-	.	ID=gene:COCVIDRAFT_102620
+Cvic_tig07	ena	gene	804587	805387	.	+	.	ID=gene:COCVIDRAFT_35429
+Cvic_tig07	ena	gene	2008709	2009506	.	+	.	ID=gene:COCVIDRAFT_116074
+Cvic_tig07	ena	gene	1242174	1242970	.	-	.	ID=gene:COCVIDRAFT_96482
+Cvic_tig07	ena	gene	635687	636478	.	-	.	ID=gene:COCVIDRAFT_91961
+Cvic_tig07	ena	gene	812673	813461	.	+	.	ID=gene:COCVIDRAFT_13712
+Cvic_tig07	ena	gene	1208244	1209027	.	+	.	ID=gene:COCVIDRAFT_25686
+Cvic_tig07	ena	gene	933545	934319	.	-	.	ID=gene:COCVIDRAFT_21340
+Cvic_tig07	ena	gene	1896924	1897697	.	-	.	ID=gene:COCVIDRAFT_116270
+Cvic_tig07	ena	gene	1191344	1192116	.	-	.	ID=gene:COCVIDRAFT_36830
+Cvic_tig07	ena	gene	1651404	1652170	.	-	.	ID=gene:COCVIDRAFT_42997
+Cvic_tig07	ena	gene	1176939	1177699	.	+	.	ID=gene:COCVIDRAFT_96497
+Cvic_tig07	ena	gene	1410376	1411133	.	-	.	ID=gene:COCVIDRAFT_16993
+Cvic_tig07	ena	gene	978851	979608	.	+	.	ID=gene:COCVIDRAFT_18955
+Cvic_tig07	ena	gene	145709	146465	.	-	.	ID=gene:COCVIDRAFT_20111
+Cvic_tig07	ena	gene	1452917	1453665	.	+	.	ID=gene:COCVIDRAFT_114024
+Cvic_tig07	ena	gene	1665741	1666485	.	-	.	ID=gene:COCVIDRAFT_110908
+Cvic_tig07	ena	gene	800729	801472	.	-	.	ID=gene:COCVIDRAFT_35426
+Cvic_tig07	ena	gene	1993567	1994309	.	+	.	ID=gene:COCVIDRAFT_42921
+Cvic_tig07	ena	gene	1337471	1338208	.	-	.	ID=gene:COCVIDRAFT_96243
+Cvic_tig07	ena	gene	1135700	1136433	.	-	.	ID=gene:COCVIDRAFT_36851
+Cvic_tig07	ena	gene	2040779	2041511	.	+	.	Name=COCVIDRAFT_115485_DUF3328-1;ID=gene:COCVIDRAFT_115485
+Cvic_tig07	ena	gene	211933	212664	.	+	.	ID=gene:COCVIDRAFT_112247
+Cvic_tig07	ena	gene	61894	62616	.	+	.	ID=gene:COCVIDRAFT_116795
+Cvic_tig07	ena	gene	769447	770168	.	-	.	ID=gene:COCVIDRAFT_35416
+Cvic_tig07	ena	gene	1016467	1017186	.	-	.	ID=gene:COCVIDRAFT_108587
+Cvic_tig07	ena	gene	386083	386801	.	+	.	ID=gene:COCVIDRAFT_38853
+Cvic_tig07	ena	gene	1451949	1452665	.	-	.	ID=gene:COCVIDRAFT_20682
+Cvic_tig07	ena	gene	1678756	1679469	.	-	.	ID=gene:COCVIDRAFT_30369
+Cvic_tig07	ena	gene	201817	202526	.	+	.	ID=gene:COCVIDRAFT_20127
+Cvic_tig07	ena	gene	1374393	1375099	.	-	.	ID=gene:COCVIDRAFT_102319
+Cvic_tig07	ena	gene	853181	853885	.	-	.	ID=gene:COCVIDRAFT_35449
+Cvic_tig07	ena	gene	182439	183143	.	-	.	ID=gene:COCVIDRAFT_42050
+Cvic_tig07	ena	gene	919110	919813	.	-	.	ID=gene:COCVIDRAFT_13748
+Cvic_tig07	ena	gene	1075461	1076164	.	-	.	ID=gene:COCVIDRAFT_36868
+Cvic_tig07	ena	gene	1144298	1144993	.	-	.	ID=gene:COCVIDRAFT_25709
+Cvic_tig07	ena	gene	2050310	2051002	.	-	.	ID=gene:COCVIDRAFT_115467
+Cvic_tig07	ena	gene	857385	858071	.	+	.	ID=gene:COCVIDRAFT_92139
+Cvic_tig07	ena	gene	1785460	1786142	.	+	.	ID=gene:COCVIDRAFT_110597
+Cvic_tig07	ena	gene	2024685	2025359	.	+	.	ID=gene:COCVIDRAFT_62707
+Cvic_tig07	ena	gene	1405769	1406440	.	+	.	ID=gene:COCVIDRAFT_16992
+Cvic_tig07	ena	gene	2085262	2085930	.	-	.	Name=COCVIDRAFT_117098;ID=gene:COCVIDRAFT_117098
+Cvic_tig07	ena	gene	1140430	1141098	.	-	.	ID=gene:COCVIDRAFT_15092
+Cvic_tig07	ena	gene	376390	377058	.	+	.	ID=gene:COCVIDRAFT_17057
+Cvic_tig07	ena	gene	468880	469548	.	+	.	ID=gene:COCVIDRAFT_39495
+Cvic_tig07	ena	gene	746049	746712	.	+	.	ID=gene:COCVIDRAFT_91994
+Cvic_tig07	ena	gene	391110	391771	.	-	.	ID=gene:COCVIDRAFT_27691
+Cvic_tig07	ena	gene	907132	907791	.	-	.	ID=gene:COCVIDRAFT_92155
+Cvic_tig07	ena	gene	877631	878290	.	+	.	ID=gene:COCVIDRAFT_13733
+Cvic_tig07	ena	gene	1178770	1179429	.	-	.	ID=gene:COCVIDRAFT_36835
+Cvic_tig07	ena	gene	1391812	1392469	.	-	.	ID=gene:COCVIDRAFT_38787
+Cvic_tig07	ena	gene	828019	828672	.	-	.	ID=gene:COCVIDRAFT_35440
+Cvic_tig07	ena	gene	1789232	1789885	.	+	.	ID=gene:COCVIDRAFT_110646
+Cvic_tig07	ena	gene	71034	71680	.	-	.	ID=gene:COCVIDRAFT_32164
+Cvic_tig07	ena	gene	233378	234022	.	+	.	ID=gene:COCVIDRAFT_102481
+Cvic_tig07	ena	gene	1061240	1061881	.	+	.	ID=gene:COCVIDRAFT_96326
+Cvic_tig07	ena	gene	264949	265587	.	+	.	ID=gene:COCVIDRAFT_17093
+Cvic_tig07	ena	gene	1705782	1706420	.	+	.	ID=gene:COCVIDRAFT_30379
+Cvic_tig07	ena	gene	524655	525292	.	-	.	ID=gene:COCVIDRAFT_28344
+Cvic_tig07	ena	gene	2106570	2107205	.	+	.	ID=gene:COCVIDRAFT_21370
+Cvic_tig07	ena	gene	1986706	1987332	.	+	.	ID=gene:COCVIDRAFT_115025
+Cvic_tig07	ena	gene	503882	504507	.	-	.	ID=gene:COCVIDRAFT_104514
+Cvic_tig07	ena	gene	606600	607220	.	+	.	ID=gene:COCVIDRAFT_91969
+Cvic_tig07	ena	gene	1763477	1764095	.	-	.	ID=gene:COCVIDRAFT_110638
+Cvic_tig07	ena	gene	1339304	1339921	.	-	.	ID=gene:COCVIDRAFT_36786
+Cvic_tig07	ena	gene	1983812	1984429	.	-	.	ID=gene:COCVIDRAFT_20974
+Cvic_tig07	ena	gene	1952368	1952982	.	-	.	ID=gene:COCVIDRAFT_115788
+Cvic_tig07	ena	gene	927819	928430	.	-	.	ID=gene:COCVIDRAFT_24377
+Cvic_tig07	ena	gene	796680	797287	.	-	.	ID=gene:COCVIDRAFT_92144
+Cvic_tig07	ena	gene	1541472	1542077	.	+	.	ID=gene:COCVIDRAFT_109588
+Cvic_tig07	ena	gene	2038193	2038794	.	+	.	ID=gene:COCVIDRAFT_43038
+Cvic_tig07	ena	gene	2102929	2103530	.	+	.	ID=gene:COCVIDRAFT_43038
+Cvic_tig07	ena	gene	1721459	1722058	.	-	.	ID=gene:COCVIDRAFT_110929
+Cvic_tig07	ena	gene	932026	932619	.	-	.	ID=gene:COCVIDRAFT_116438
+Cvic_tig07	ena	gene	806690	807280	.	+	.	ID=gene:COCVIDRAFT_91852
+Cvic_tig07	ena	gene	1432704	1433294	.	+	.	ID=gene:COCVIDRAFT_46157
+Cvic_tig07	ena	gene	1202082	1202670	.	+	.	ID=gene:COCVIDRAFT_36825
+Cvic_tig07	ena	gene	439979	440564	.	+	.	ID=gene:COCVIDRAFT_39481
+Cvic_tig07	ena	gene	1390845	1391429	.	-	.	ID=gene:COCVIDRAFT_16988
+Cvic_tig07	ena	gene	1427315	1427899	.	+	.	ID=gene:COCVIDRAFT_31407
+Cvic_tig07	ena	gene	556136	556717	.	+	.	ID=gene:COCVIDRAFT_28357
+Cvic_tig07	ena	gene	572483	573064	.	+	.	ID=gene:COCVIDRAFT_17706
+Cvic_tig07	ena	gene	578798	579373	.	-	.	ID=gene:COCVIDRAFT_39534
+Cvic_tig07	ena	gene	1999788	2000354	.	-	.	ID=gene:COCVIDRAFT_31703
+Cvic_tig07	ena	gene	920588	921153	.	+	.	ID=gene:COCVIDRAFT_24374
+Cvic_tig07	ena	gene	842479	843043	.	+	.	ID=gene:COCVIDRAFT_35447
+Cvic_tig07	ena	gene	1429970	1430534	.	+	.	ID=gene:COCVIDRAFT_31406
+Cvic_tig07	ena	gene	558691	559252	.	-	.	ID=gene:COCVIDRAFT_28359
+Cvic_tig07	ena	gene	916111	916660	.	+	.	ID=gene:COCVIDRAFT_92051
+Cvic_tig07	ena	gene	448690	449238	.	-	.	ID=gene:COCVIDRAFT_28315
+Cvic_tig07	ena	gene	2013665	2014210	.	+	.	ID=gene:COCVIDRAFT_116072
+Cvic_tig07	ena	gene	1526369	1526905	.	-	.	ID=gene:COCVIDRAFT_41159
+Cvic_tig07	ena	gene	1247976	1248510	.	-	.	ID=gene:COCVIDRAFT_15056
+Cvic_tig07	ena	gene	1069360	1069890	.	+	.	ID=gene:COCVIDRAFT_96443
+Cvic_tig07	ena	gene	415295	415823	.	-	.	ID=gene:COCVIDRAFT_39473
+Cvic_tig07	ena	gene	982766	983293	.	-	.	ID=gene:COCVIDRAFT_29630
+Cvic_tig07	ena	gene	1994912	1995439	.	+	.	ID=gene:COCVIDRAFT_42922
+Cvic_tig07	ena	gene	912423	912947	.	+	.	ID=gene:COCVIDRAFT_92141
+Cvic_tig07	ena	gene	1978160	1978679	.	-	.	ID=gene:COCVIDRAFT_42918
+Cvic_tig07	ena	gene	2000937	2001452	.	-	.	ID=gene:COCVIDRAFT_115012
+Cvic_tig07	ena	gene	1811453	1811961	.	+	.	ID=gene:COCVIDRAFT_41496
+Cvic_tig07	ena	gene	728912	729419	.	-	.	ID=gene:COCVIDRAFT_92050
+Cvic_tig07	ena	gene	2026050	2026557	.	-	.	ID=gene:COCVIDRAFT_21381
+Cvic_tig07	ena	gene	1442593	1443096	.	+	.	ID=gene:COCVIDRAFT_114065
+Cvic_tig07	ena	gene	11687	12190	.	+	.	ID=gene:COCVIDRAFT_116350
+Cvic_tig07	ena	gene	381432	381932	.	+	.	ID=gene:COCVIDRAFT_17055
+Cvic_tig07	ena	gene	1055988	1056486	.	-	.	ID=gene:COCVIDRAFT_18934
+Cvic_tig07	ena	gene	389000	389497	.	-	.	ID=gene:COCVIDRAFT_38851
+Cvic_tig07	ena	gene	1057213	1057710	.	-	.	ID=gene:COCVIDRAFT_29610
+Cvic_tig07	ena	gene	1961566	1962054	.	-	.	ID=gene:COCVIDRAFT_43122
+Cvic_tig07	Geneious	gene	2059093	2059580	.	+	.	Name=COCVIDRAFT_117381
+Cvic_tig07	ena	gene	1904342	1904827	.	-	.	ID=gene:COCVIDRAFT_115953
+Cvic_tig07	ena	gene	2098029	2098508	.	-	.	ID=gene:COCVIDRAFT_32310
+Cvic_tig07	ena	gene	984598	985062	.	-	.	ID=gene:COCVIDRAFT_108530
+Cvic_tig07	ena	gene	2058022	2058485	.	+	.	ID=gene:COCVIDRAFT_21113
+Cvic_tig07	ena	gene	2006825	2007282	.	-	.	ID=gene:COCVIDRAFT_21266
+Cvic_tig07	ena	gene	768734	769179	.	+	.	ID=gene:COCVIDRAFT_91914
+Cvic_tig07	ena	gene	1279511	1279948	.	+	.	ID=gene:COCVIDRAFT_25668
+Cvic_tig07	ena	gene	2067590	2068027	.	-	.	ID=gene:COCVIDRAFT_116131
+Cvic_tig07	ena	gene	693442	693872	.	-	.	ID=gene:COCVIDRAFT_92101
+Cvic_tig07	ena	gene	1991692	1992117	.	+	.	ID=gene:COCVIDRAFT_42920
+Cvic_tig07	ena	gene	1152302	1152721	.	-	.	ID=gene:COCVIDRAFT_96208
+Cvic_tig07	ena	gene	258892	259309	.	+	.	ID=gene:COCVIDRAFT_49375
+Cvic_tig07	ena	gene	2015555	2015971	.	+	.	ID=gene:COCVIDRAFT_116071
+Cvic_tig07	ena	gene	2060621	2061035	.	-	.	ID=gene:COCVIDRAFT_32292
+Cvic_tig07	ena	gene	757426	757839	.	-	.	ID=gene:COCVIDRAFT_13690
+Cvic_tig07	ena	gene	2011366	2011779	.	+	.	ID=gene:COCVIDRAFT_116083
+Cvic_tig07	ena	gene	936683	937091	.	+	.	ID=gene:COCVIDRAFT_32058
+Cvic_tig07	ena	gene	1760679	1761085	.	-	.	ID=gene:COCVIDRAFT_19593
+Cvic_tig07	ena	gene	1768936	1769340	.	+	.	ID=gene:COCVIDRAFT_30291
+Cvic_tig07	ena	gene	1830697	1831098	.	-	.	ID=gene:COCVIDRAFT_30275
+Cvic_tig07	ena	gene	351302	351700	.	+	.	ID=gene:COCVIDRAFT_17069
+Cvic_tig07	ena	gene	674421	674816	.	+	.	ID=gene:COCVIDRAFT_91949
+Cvic_tig07	ena	gene	550125	550519	.	+	.	ID=gene:COCVIDRAFT_28355
+Cvic_tig07	ena	gene	2071960	2072352	.	-	.	ID=gene:COCVIDRAFT_63600
+Cvic_tig07	ena	gene	1130053	1130442	.	-	.	ID=gene:COCVIDRAFT_96309
+Cvic_tig07	ena	gene	773415	773792	.	+	.	ID=gene:COCVIDRAFT_13696
+Cvic_tig07	ena	gene	475395	475770	.	+	.	ID=gene:COCVIDRAFT_39497
+Cvic_tig07	ena	gene	744115	744489	.	+	.	ID=gene:COCVIDRAFT_92038
+Cvic_tig07	ena	gene	1741366	1741737	.	+	.	ID=gene:COCVIDRAFT_110881
+Cvic_tig07	ena	gene	1466096	1466467	.	-	.	ID=gene:COCVIDRAFT_114050
+Cvic_tig07	ena	gene	1716876	1717236	.	-	.	ID=gene:COCVIDRAFT_30382
+Cvic_tig07	ena	gene	1399088	1399442	.	+	.	ID=gene:COCVIDRAFT_16990
+Cvic_tig07	ena	gene	1912956	1913310	.	+	.	ID=gene:COCVIDRAFT_115956
+Cvic_tig07	ena	gene	1664065	1664418	.	-	.	ID=gene:COCVIDRAFT_19659
+Cvic_tig07	ena	gene	412254	412605	.	-	.	ID=gene:COCVIDRAFT_102626
+Cvic_tig07	ena	gene	186696	187040	.	+	.	ID=gene:COCVIDRAFT_42052
+Cvic_tig07	ena	gene	390297	390640	.	-	.	ID=gene:COCVIDRAFT_102544
+Cvic_tig07	ena	gene	1583765	1584107	.	+	.	ID=gene:COCVIDRAFT_109603
+Cvic_tig07	ena	gene	959201	959539	.	+	.	ID=gene:COCVIDRAFT_108580
+Cvic_tig07	ena	gene	1645589	1645926	.	-	.	ID=gene:COCVIDRAFT_115305
+Cvic_tig07	ena	gene	1443783	1444118	.	+	.	ID=gene:COCVIDRAFT_20685
+Cvic_tig07	ena	gene	2042507	2042839	.	-	.	ID=gene:COCVIDRAFT_73015
+Cvic_tig07	ena	gene	905128	905457	.	-	.	ID=gene:COCVIDRAFT_91935
+Cvic_tig07	ena	gene	679806	680132	.	+	.	ID=gene:COCVIDRAFT_92049
+Cvic_tig07	ena	gene	1911331	1911653	.	-	.	ID=gene:COCVIDRAFT_43164
+Cvic_tig07	ena	gene	1909464	1909785	.	-	.	ID=gene:COCVIDRAFT_31956
+Cvic_tig07	ena	gene	2048034	2048354	.	-	.	ID=gene:COCVIDRAFT_115471
+Cvic_tig07	ena	gene	418187	418506	.	-	.	ID=gene:COCVIDRAFT_39475
+Cvic_tig07	ena	gene	1982503	1982820	.	-	.	ID=gene:COCVIDRAFT_115026
+Cvic_tig07	ena	gene	937364	937681	.	+	.	ID=gene:COCVIDRAFT_32145
+Cvic_tig07	ena	gene	586596	586910	.	+	.	ID=gene:COCVIDRAFT_17708
+Cvic_tig07	ena	gene	781378	781689	.	-	.	ID=gene:COCVIDRAFT_92190
+Cvic_tig07	ena	gene	1350878	1351189	.	+	.	ID=gene:COCVIDRAFT_70001
+Cvic_tig07	ena	gene	1043497	1043802	.	+	.	ID=gene:COCVIDRAFT_40813
+Cvic_tig07	ena	gene	2091620	2091922	.	-	.	ID=gene:COCVIDRAFT_116019
+Cvic_tig07	ena	gene	1065924	1066220	.	-	.	ID=gene:COCVIDRAFT_96394
+Cvic_tig07	ena	gene	2051923	2052219	.	-	.	ID=gene:COCVIDRAFT_115473
+Cvic_tig07	ena	gene	2076595	2076888	.	+	.	ID=gene:COCVIDRAFT_63822
+Cvic_tig07	ena	gene	2069410	2069697	.	-	.	ID=gene:COCVIDRAFT_63986
+Cvic_tig07	ena	gene	2017050	2017331	.	+	.	ID=gene:COCVIDRAFT_45929
+Cvic_tig07	ena	gene	2107994	2108274	.	-	.	ID=gene:COCVIDRAFT_116682
+Cvic_tig07	ena	gene	2108659	2108939	.	-	.	ID=gene:COCVIDRAFT_63365
+Cvic_tig07	ena	gene	533423	533698	.	+	.	ID=gene:COCVIDRAFT_39518
+Cvic_tig07	ena	gene	1297337	1297609	.	+	.	ID=gene:COCVIDRAFT_36799
+Cvic_tig07	ena	gene	1184689	1184961	.	+	.	ID=gene:COCVIDRAFT_43652
+Cvic_tig07	ena	gene	1957444	1957710	.	+	.	ID=gene:COCVIDRAFT_115776
+Cvic_tig07	ena	gene	934842	935108	.	-	.	ID=gene:COCVIDRAFT_116441
+Cvic_tig07	ena	gene	2002876	2003136	.	+	.	ID=gene:COCVIDRAFT_63159
+Cvic_tig07	ena	gene	690839	691096	.	+	.	ID=gene:COCVIDRAFT_92103
+Cvic_tig07	ena	gene	1799368	1799623	.	+	.	ID=gene:COCVIDRAFT_110604
+Cvic_tig07	ena	gene	596508	596762	.	-	.	ID=gene:COCVIDRAFT_92183
+Cvic_tig07	ena	gene	1212853	1213104	.	+	.	ID=gene:COCVIDRAFT_96207
+Cvic_tig07	ena	gene	268587	268838	.	+	.	ID=gene:COCVIDRAFT_102664
+Cvic_tig07	ena	gene	1190322	1190570	.	+	.	ID=gene:COCVIDRAFT_96236
+Cvic_tig07	ena	gene	1832041	1832289	.	+	.	ID=gene:COCVIDRAFT_110563
+Cvic_tig07	ena	gene	745093	745332	.	+	.	ID=gene:COCVIDRAFT_92108
+Cvic_tig07	ena	gene	77025	77261	.	+	.	ID=gene:COCVIDRAFT_117291
+Cvic_tig07	ena	gene	1950201	1950434	.	-	.	ID=gene:COCVIDRAFT_43127
+Cvic_tig07	ena	gene	647511	647743	.	-	.	ID=gene:COCVIDRAFT_35372
+Cvic_tig07	ena	gene	45629	45859	.	-	.	ID=gene:COCVIDRAFT_116001
+Cvic_tig07	ena	gene	487830	488057	.	+	.	ID=gene:COCVIDRAFT_104411
+Cvic_tig07	ena	gene	200207	200434	.	-	.	ID=gene:COCVIDRAFT_112290
+Cvic_tig07	ena	gene	61516	61743	.	+	.	ID=gene:COCVIDRAFT_70189
+Cvic_tig07	ena	gene	1953767	1953986	.	+	.	ID=gene:COCVIDRAFT_75283
+Cvic_tig07	ena	gene	2083616	2083835	.	+	.	ID=gene:COCVIDRAFT_32336
+Cvic_tig07	ena	gene	1303540	1303758	.	-	.	ID=gene:COCVIDRAFT_96446
+Cvic_tig07	ena	gene	1777869	1778087	.	+	.	ID=gene:COCVIDRAFT_110576
+Cvic_tig07	ena	gene	280287	280502	.	+	.	ID=gene:COCVIDRAFT_102548
+Cvic_tig07	ena	gene	835949	836161	.	+	.	ID=gene:COCVIDRAFT_91918
+Cvic_tig07	ena	gene	1373795	1374007	.	-	.	ID=gene:COCVIDRAFT_102339
+Cvic_tig07	ena	gene	2093555	2093764	.	-	.	ID=gene:COCVIDRAFT_116009
+Cvic_tig07	ena	gene	723414	723620	.	-	.	ID=gene:COCVIDRAFT_92017
+Cvic_tig07	ena	gene	573562	573768	.	-	.	ID=gene:COCVIDRAFT_104505
+Cvic_tig07	ena	gene	691652	691855	.	-	.	ID=gene:COCVIDRAFT_54294
+Cvic_tig07	ena	gene	238290	238493	.	+	.	ID=gene:COCVIDRAFT_102534
+Cvic_tig07	ena	gene	1243323	1243520	.	+	.	ID=gene:COCVIDRAFT_96232
+Cvic_tig07	ena	gene	800490	800681	.	-	.	ID=gene:COCVIDRAFT_92196
+Cvic_tig07	ena	gene	1448704	1448895	.	+	.	ID=gene:COCVIDRAFT_114040
+Cvic_tig07	ena	gene	1031489	1031677	.	-	.	ID=gene:COCVIDRAFT_108567
+Cvic_tig07	ena	gene	1153169	1153351	.	+	.	ID=gene:COCVIDRAFT_36844
+Cvic_tig07	ena	gene	1333374	1333556	.	+	.	ID=gene:COCVIDRAFT_96271
+Cvic_tig07	ena	gene	2091299	2091481	.	-	.	ID=gene:COCVIDRAFT_66799
+Cvic_tig07	ena	gene	2017664	2017843	.	+	.	ID=gene:COCVIDRAFT_116079
+Cvic_tig07	ena	gene	1624161	1624340	.	-	.	ID=gene:COCVIDRAFT_116389
+Cvic_tig07	ena	gene	1429214	1429390	.	+	.	ID=gene:COCVIDRAFT_114033
+Cvic_tig07	ena	gene	903920	904093	.	+	.	ID=gene:COCVIDRAFT_91853
+Cvic_tig07	ena	gene	1176220	1176393	.	+	.	ID=gene:COCVIDRAFT_96224
+Cvic_tig07	ena	gene	1835984	1836157	.	+	.	ID=gene:COCVIDRAFT_110607
+Cvic_tig07	ena	gene	513119	513289	.	+	.	ID=gene:COCVIDRAFT_104356
+Cvic_tig07	ena	gene	1826668	1826838	.	-	.	ID=gene:COCVIDRAFT_110626
+Cvic_tig07	ena	gene	1467902	1468072	.	+	.	ID=gene:COCVIDRAFT_114039
+Cvic_tig07	ena	gene	2087130	2087300	.	+	.	ID=gene:COCVIDRAFT_68479
+Cvic_tig07	ena	gene	2028160	2028329	.	-	.	ID=gene:COCVIDRAFT_68479
+Cvic_tig07	ena	gene	312734	312901	.	+	.	ID=gene:COCVIDRAFT_102607
+Cvic_tig07	ena	gene	1448535	1448699	.	-	.	ID=gene:COCVIDRAFT_114034
+Cvic_tig07	ena	gene	1231468	1231629	.	+	.	ID=gene:COCVIDRAFT_96226
+Cvic_tig07	ena	gene	1799742	1799903	.	+	.	ID=gene:COCVIDRAFT_65449
+Cvic_tig07	ena	gene	2032748	2032909	.	+	.	ID=gene:COCVIDRAFT_116493
+Cvic_tig07	ena	gene	600288	600446	.	-	.	ID=gene:COCVIDRAFT_91867
+Cvic_tig07	ena	gene	243957	244115	.	+	.	ID=gene:COCVIDRAFT_45887
+Cvic_tig07	ena	gene	1796861	1797019	.	+	.	ID=gene:COCVIDRAFT_110634
+Cvic_tig07	ena	gene	1807326	1807484	.	+	.	ID=gene:COCVIDRAFT_77788
+Cvic_tig07	ena	gene	1667172	1667327	.	-	.	ID=gene:COCVIDRAFT_110889
+Cvic_tig07	ena	gene	2023544	2023699	.	-	.	ID=gene:COCVIDRAFT_116178
+Cvic_tig07	ena	gene	838017	838169	.	+	.	ID=gene:COCVIDRAFT_91910
+Cvic_tig07	ena	gene	998336	998488	.	-	.	ID=gene:COCVIDRAFT_108537
+Cvic_tig07	ena	gene	94225	94377	.	-	.	ID=gene:COCVIDRAFT_116762
+Cvic_tig07	ena	gene	54073	54222	.	+	.	ID=gene:COCVIDRAFT_117037
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2045144	2046984	.	-	.	ID=ms502_Cvic_tig12_p5_DTX-comp_CV_p5-B-G109-Map6;Target=DTX-comp_CV_p5-B-G109-Map6 1 1841
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2053286	2053421	.	-	.	ID=ms507_Cvic_tig12_p5_DTX-incomp_CV_p5-B-G111-Map3;Target=DTX-incomp_CV_p5-B-G111-Map3 1287 1430
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1979234	1979699	.	+	.	ID=ms525_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-B-R90-Map4_reversed;Target=DTX-incomp-chim_CV_p5-B-R90-Map4_reversed 1710 2165
+Cvic_tig07	CV_p5_REPET_TEs	match_part	176414	176595	.	+	.	ID=ms808_Cvic_tig12_p5_DXX-MITE_CV_p5_RS_101;Target=DXX-MITE_CV_p5_RS_101 1 182
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1884862	1884922	.	+	.	ID=ms593_Cvic_tig12_p5_RXX_CV_p5-B-R30-Map3;Target=RXX_CV_p5-B-R30-Map3 416 476
+Cvic_tig07	CV_p5_REPET_TEs	match_part	147754	147836	.	-	.	ID=ms772_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B11-Map1;Target=RLX-incomp_CV_p5-L-B11-Map1 1344 1426
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1890961	1890985	.	+	.	ID=ms600_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B11-Map1;Target=RLX-incomp_CV_p5-L-B11-Map1 15623 15647
+Cvic_tig07	CV_p5_REPET_TEs	match_part	926715	926869	.	-	.	ID=ms658_Cvic_tig12_p5_DTX-incomp_CV_p5-B-G111-Map3;Target=DTX-incomp_CV_p5-B-G111-Map3 1106 1278
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1844740	1844855	.	+	.	ID=ms597_Cvic_tig12_p5_DTX-comp_CV_p5-B-R49-Map20;Target=DTX-comp_CV_p5-B-R49-Map20 3 123
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1845120	1845289	.	+	.	ID=ms597_Cvic_tig12_p5_DTX-comp_CV_p5-B-R49-Map20;Target=DTX-comp_CV_p5-B-R49-Map20 3 123
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1846921	1847460	.	+	.	ID=ms597_Cvic_tig12_p5_DTX-comp_CV_p5-B-R49-Map20;Target=DTX-comp_CV_p5-B-R49-Map20 3 123
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1850204	1850265	.	+	.	ID=ms597_Cvic_tig12_p5_DTX-comp_CV_p5-B-R49-Map20;Target=DTX-comp_CV_p5-B-R49-Map20 3 123
+Cvic_tig07	CV_p5_REPET_TEs	match_part	78493	78564	.	-	.	ID=ms807_Cvic_tig12_p5_RLX-incomp_CV_p5_RS_37;Target=RLX-incomp_CV_p5_RS_37 8 80
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1887931	1888244	.	+	.	ID=ms604_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B13-Map1;Target=DTX-incomp-chim_CV_p5-L-B13-Map1 736 1044
+Cvic_tig07	CV_p5_REPET_TEs	match_part	465921	465997	.	-	.	ID=ms734_Cvic_tig12_p5_DTX-incomp_CV_p5-B-R45-Map11_reversed;Target=DTX-incomp_CV_p5-B-R45-Map11_reversed 6054 6124
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2044870	2044897	.	+	.	ID=ms562_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B9-Map1_reversed;Target=DTX-incomp-chim_CV_p5-L-B9-Map1_reversed 15234 15264
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2025648	2025762	.	-	.	ID=ms576_Cvic_tig12_p5_RLX-incomp_CV_p5-B-R112-Map3;Target=RLX-incomp_CV_p5-B-R112-Map3 806 921
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1979965	1979987	.	+	.	ID=ms582_Cvic_tig12_p5_DTX-incomp_CV_p5-B-R45-Map11_reversed;Target=DTX-incomp_CV_p5-B-R45-Map11_reversed 5326 5348
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1478613	1484771	.	+	.	ID=ms629_Cvic_tig12_p5_RLX-incomp-chim_CV_p5_RS_2_reversed;Target=RLX-incomp-chim_CV_p5_RS_2_reversed 6436 12423
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1493616	1494095	.	+	.	ID=ms630_Cvic_tig12_p5_DTX-incomp_CV_p5_RS_29_reversed;Target=DTX-incomp_CV_p5_RS_29_reversed 16 492
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2034324	2040731	.	+	.	ID=ms520_Cvic_tig12_p5_PotentialHostGene_CV_p5-B-R87-Map3;Target=PotentialHostGene_CV_p5-B-R87-Map3 1 6401
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2044087	2044235	.	-	.	ID=ms533_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B11-Map1;Target=RLX-incomp_CV_p5-L-B11-Map1 2329 2484
+Cvic_tig07	CV_p5_REPET_TEs	match_part	213028	213089	.	+	.	ID=ms742_Cvic_tig12_p5_DTX-incomp_CV_p5-B-R45-Map11_reversed;Target=DTX-incomp_CV_p5-B-R45-Map11_reversed 1089 1153
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1950102	1950230	.	-	.	ID=ms519_Cvic_tig12_p5_PotentialHostGene_CV_p5-B-R87-Map3;Target=PotentialHostGene_CV_p5-B-R87-Map3 4600 4732
+Cvic_tig07	CV_p5_REPET_TEs	match_part	24142	24281	.	-	.	ID=ms834_Cvic_tig12_p5_DTX-incomp_CV_p5-L-B12-Map1;Target=DTX-incomp_CV_p5-L-B12-Map1 16329 16434
+Cvic_tig07	CV_p5_REPET_TEs	match_part	24064	24169	.	-	.	ID=ms834_Cvic_tig12_p5_DTX-incomp_CV_p5-L-B12-Map1;Target=DTX-incomp_CV_p5-L-B12-Map1 16329 16434
+Cvic_tig07	CV_p5_REPET_TEs	match_part	63214	63368	.	-	.	ID=ms810_Cvic_tig12_p5_DTX-comp_CV_p5-B-G107-Map3_reversed;Target=DTX-comp_CV_p5-B-G107-Map3_reversed 1434 1588
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1892002	1892084	.	+	.	ID=ms590_Cvic_tig12_p5_DTX-comp_CV_p5-B-P0.17-Map9_reversed;Target=DTX-comp_CV_p5-B-P0.17-Map9_reversed 1778 1860
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1858487	1858754	.	+	.	ID=ms2124_Cvic_tig12_p5_DTX-comp_CV_p5-B-R49-Map20;Target=DTX-comp_CV_p5-B-R49-Map20 1588 1859
+Cvic_tig07	CV_p5_REPET_TEs	match_part	49739	50286	.	+	.	ID=ms826_Cvic_tig12_p5_DTX-incomp_CV_p5-B-R45-Map11_reversed;Target=DTX-incomp_CV_p5-B-R45-Map11_reversed 7 531
+Cvic_tig07	CV_p5_REPET_TEs	match_part	840184	840220	.	-	.	ID=ms660_Cvic_tig12_p5_RLX-incomp_CV_p5-B-R33-Map12;Target=RLX-incomp_CV_p5-B-R33-Map12 2309 2346
+Cvic_tig07	CV_p5_REPET_TEs	match_part	589587	590207	.	-	.	ID=ms732_Cvic_tig12_p5_RXX-TRIM_CV_p5-L-B55-Map1;Target=RXX-TRIM_CV_p5-L-B55-Map1 317 937
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1888565	1888763	.	+	.	ID=ms2125_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B13-Map1;Target=DTX-incomp-chim_CV_p5-L-B13-Map1 1359 1554
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1844565	1844660	.	-	.	ID=ms598_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B11-Map1;Target=RLX-incomp_CV_p5-L-B11-Map1 2042 2137
+Cvic_tig07	CV_p5_REPET_TEs	match_part	88275	89346	.	+	.	ID=ms763_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B10-Map1;Target=RLX-incomp_CV_p5-L-B10-Map1 15444 16472
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1846484	1846597	.	+	.	ID=ms612_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B31-Map1;Target=RLX-incomp_CV_p5-L-B31-Map1 1312 1424
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1984801	1984932	.	-	.	ID=ms522_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-B-R89-Map3_reversed;Target=DTX-incomp-chim_CV_p5-B-R89-Map3_reversed 8798 8929
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1951944	1952077	.	-	.	ID=ms503_Cvic_tig12_p5_DTX-incomp_CV_p5-B-G111-Map3;Target=DTX-incomp_CV_p5-B-G111-Map3 1116 1245
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1841657	1842028	.	-	.	ID=ms602_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B13-Map1;Target=DTX-incomp-chim_CV_p5-L-B13-Map1 12702 13059
+Cvic_tig07	CV_p5_REPET_TEs	match_part	63373	63603	.	-	.	ID=ms819_Cvic_tig12_p5_DTX-incomp_CV_p5-B-R31-Map4;Target=DTX-incomp_CV_p5-B-R31-Map4 762 991
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2018327	2023799	.	-	.	ID=ms579_Cvic_tig12_p5_RIX-incomp_CV_p5-B-R35-Map14;Target=RIX-incomp_CV_p5-B-R35-Map14 96 5583
+Cvic_tig07	CV_p5_REPET_TEs	match_part	199237	199545	.	+	.	ID=ms736_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B11-Map1;Target=RLX-incomp_CV_p5-L-B11-Map1 6078 6382
+Cvic_tig07	CV_p5_REPET_TEs	match_part	202783	202826	.	+	.	ID=ms737_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B11-Map1;Target=RLX-incomp_CV_p5-L-B11-Map1 6138 6181
+Cvic_tig07	CV_p5_REPET_TEs	match_part	7215	7249	.	+	.	ID=ms793_Cvic_tig12_p5_RLX-comp-chim_CV_p5_RS_1_reversed;Target=RLX-comp-chim_CV_p5_RS_1_reversed 6944 6980
+Cvic_tig07	CV_p5_REPET_TEs	match_part	7753	7797	.	+	.	ID=ms793_Cvic_tig12_p5_RLX-comp-chim_CV_p5_RS_1_reversed;Target=RLX-comp-chim_CV_p5_RS_1_reversed 6944 6980
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1863380	1863920	.	-	.	ID=ms605_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B14-Map1_reversed;Target=DTX-incomp-chim_CV_p5-L-B14-Map1_reversed 13092 13651
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1946313	1949434	.	-	.	ID=ms537_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B21-Map1_reversed;Target=DTX-incomp-chim_CV_p5-L-B21-Map1_reversed 1906 5073
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2023802	2023969	.	+	.	ID=ms572_Cvic_tig12_p5_DXX-MITE_CV_p5_RS_91;Target=DXX-MITE_CV_p5_RS_91 21 198
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1862185	1863379	.	+	.	ID=ms616_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B6-Map1;Target=DTX-incomp-chim_CV_p5-L-B6-Map1 20248 21441
+Cvic_tig07	CV_p5_REPET_TEs	match_part	8861	9033	.	+	.	ID=ms829_Cvic_tig12_p5_RLX-incomp_CV_p5-B-R78-Map4;Target=RLX-incomp_CV_p5-B-R78-Map4 1303 1474
+Cvic_tig07	CV_p5_REPET_TEs	match_part	80730	82848	.	-	.	ID=ms774_Cvic_tig12_p5_RYX-incomp-chim_CV_p5-L-B15-Map1_reversed;Target=RYX-incomp-chim_CV_p5-L-B15-Map1_reversed 4 2212
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2097755	2097900	.	-	.	ID=ms138_Cvic_tig12_p5_DTX-incomp_CV_p5-B-R69-Map3_reversed;Target=DTX-incomp_CV_p5-B-R69-Map3_reversed 79 223
+Cvic_tig07	CV_p5_REPET_TEs	match_part	37962	38068	.	-	.	ID=ms786_Cvic_tig12_p5_RXX-LARD_CV_p5-L-B7-Map1;Target=RXX-LARD_CV_p5-L-B7-Map1 10263 10369
+Cvic_tig07	CV_p5_REPET_TEs	match_part	86386	86685	.	+	.	ID=ms811_Cvic_tig12_p5_DTX-comp_CV_p5-B-G107-Map3_reversed;Target=DTX-comp_CV_p5-B-G107-Map3_reversed 51 350
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1978833	1978981	.	-	.	ID=ms547_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B5-Map1_reversed;Target=DTX-incomp-chim_CV_p5-L-B5-Map1_reversed 16290 16438
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2069581	2084150	.	-	.	ID=ms528_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-B-R90-Map4_reversed;Target=DTX-incomp-chim_CV_p5-B-R90-Map4_reversed 43 14451
+Cvic_tig07	CV_p5_REPET_TEs	match_part	141156	143030	.	-	.	ID=ms838_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B21-Map1_reversed;Target=DTX-incomp-chim_CV_p5-L-B21-Map1_reversed 8964 9362
+Cvic_tig07	CV_p5_REPET_TEs	match_part	140645	141013	.	-	.	ID=ms838_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B21-Map1_reversed;Target=DTX-incomp-chim_CV_p5-L-B21-Map1_reversed 8964 9362
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1968113	1968395	.	-	.	ID=ms567_Cvic_tig12_p5_DXX-MITE_CV_p5_RS_75;Target=DXX-MITE_CV_p5_RS_75 5 287
+Cvic_tig07	CV_p5_REPET_TEs	match_part	948044	948239	.	+	.	ID=ms662_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B11-Map1;Target=RLX-incomp_CV_p5-L-B11-Map1 2329 2523
+Cvic_tig07	CV_p5_REPET_TEs	match_part	106502	106821	.	+	.	ID=ms832_Cvic_tig12_p5_RLX-incomp-chim_CV_p5-L-B1-Map10_reversed;Target=RLX-incomp-chim_CV_p5-L-B1-Map10_reversed 7112 7431
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1979988	1980476	.	+	.	ID=ms553_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B51-Map1_reversed;Target=DTX-incomp-chim_CV_p5-L-B51-Map1_reversed 1382 1858
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1494096	1494789	.	-	.	ID=ms648_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B13-Map1;Target=DTX-incomp-chim_CV_p5-L-B13-Map1 14424 15206
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1492796	1493582	.	-	.	ID=ms648_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B13-Map1;Target=DTX-incomp-chim_CV_p5-L-B13-Map1 14424 15206
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1491600	1492043	.	-	.	ID=ms648_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B13-Map1;Target=DTX-incomp-chim_CV_p5-L-B13-Map1 14424 15206
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1489952	1490818	.	-	.	ID=ms648_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B13-Map1;Target=DTX-incomp-chim_CV_p5-L-B13-Map1 14424 15206
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1485872	1486657	.	-	.	ID=ms648_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B13-Map1;Target=DTX-incomp-chim_CV_p5-L-B13-Map1 14424 15206
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1915918	1917281	.	-	.	ID=ms540_Cvic_tig12_p5_RYX-incomp-chim_CV_p5-L-B25-Map1_reversed;Target=RYX-incomp-chim_CV_p5-L-B25-Map1_reversed 6705 8067
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1968396	1969062	.	+	.	ID=ms556_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B6-Map1;Target=DTX-incomp-chim_CV_p5-L-B6-Map1 9522 10213
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1945886	1945955	.	+	.	ID=ms535_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B18-Map1_reversed;Target=DTX-incomp-chim_CV_p5-L-B18-Map1_reversed 11189 11258
+Cvic_tig07	CV_p5_REPET_TEs	match_part	79117	79152	.	+	.	ID=ms827_Cvic_tig12_p5_DTX-incomp_CV_p5-B-R45-Map11_reversed;Target=DTX-incomp_CV_p5-B-R45-Map11_reversed 6322 6357
+Cvic_tig07	CV_p5_REPET_TEs	match_part	79818	80729	.	-	.	ID=ms822_Cvic_tig12_p5_RLX-incomp_CV_p5-B-R4-Map11_reversed;Target=RLX-incomp_CV_p5-B-R4-Map11_reversed 645 1567
+Cvic_tig07	CV_p5_REPET_TEs	match_part	16011	16389	.	-	.	ID=ms785_Cvic_tig12_p5_RXX-LARD_CV_p5-L-B7-Map1;Target=RXX-LARD_CV_p5-L-B7-Map1 795 1173
+Cvic_tig07	CV_p5_REPET_TEs	match_part	15886	16008	.	-	.	ID=ms784_Cvic_tig12_p5_RXX-LARD_CV_p5-L-B7-Map1;Target=RXX-LARD_CV_p5-L-B7-Map1 8906 9028
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1972995	1973074	.	+	.	ID=ms546_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B5-Map1_reversed;Target=DTX-incomp-chim_CV_p5-L-B5-Map1_reversed 16170 16245
+Cvic_tig07	CV_p5_REPET_TEs	match_part	86145	86345	.	+	.	ID=ms769_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B11-Map1;Target=RLX-incomp_CV_p5-L-B11-Map1 2320 2526
+Cvic_tig07	CV_p5_REPET_TEs	match_part	60630	60856	.	-	.	ID=ms830_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-B-R89-Map3_reversed;Target=DTX-incomp-chim_CV_p5-B-R89-Map3_reversed 3367 3593
+Cvic_tig07	CV_p5_REPET_TEs	match_part	22489	23058	.	+	.	ID=ms804_Cvic_tig12_p5_RLX-incomp_CV_p5_RS_37;Target=RLX-incomp_CV_p5_RS_37 1 582
+Cvic_tig07	CV_p5_REPET_TEs	match_part	947592	947763	.	-	.	ID=ms668_Cvic_tig12_p5_RIX-incomp_CV_p5-B-G32-Map4_reversed;Target=RIX-incomp_CV_p5-B-G32-Map4_reversed 3 174
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1858766	1859140	.	+	.	ID=ms588_Cvic_tig12_p5_RLX-incomp_CV_p5_RS_37;Target=RLX-incomp_CV_p5_RS_37 202 578
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1886092	1887925	.	-	.	ID=ms595_Cvic_tig12_p5_RLX-incomp_CV_p5-B-R33-Map12;Target=RLX-incomp_CV_p5-B-R33-Map12 6358 8237
+Cvic_tig07	CV_p5_REPET_TEs	match_part	91827	91864	.	-	.	ID=ms746_Cvic_tig12_p5_RLX-incomp_CV_p5-B-G1-Map20;Target=RLX-incomp_CV_p5-B-G1-Map20 3437 3480
+Cvic_tig07	CV_p5_REPET_TEs	match_part	91827	91996	.	-	.	ID=ms746_Cvic_tig12_p5_RLX-incomp_CV_p5-B-G1-Map20;Target=RLX-incomp_CV_p5-B-G1-Map20 3437 3480
+Cvic_tig07	CV_p5_REPET_TEs	match_part	33069	33097	.	+	.	ID=ms766_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B11-Map1;Target=RLX-incomp_CV_p5-L-B11-Map1 2498 2526
+Cvic_tig07	CV_p5_REPET_TEs	match_part	23658	23852	.	+	.	ID=ms835_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B14-Map1_reversed;Target=DTX-incomp-chim_CV_p5-L-B14-Map1_reversed 10252 10443
+Cvic_tig07	CV_p5_REPET_TEs	match_part	58369	58610	.	+	.	ID=ms841_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B22-Map1_reversed;Target=DTX-incomp-chim_CV_p5-L-B22-Map1_reversed 8684 8929
+Cvic_tig07	CV_p5_REPET_TEs	match_part	72187	74034	.	+	.	ID=ms797_Cvic_tig12_p5_RLX-comp-chim_CV_p5_RS_1_reversed;Target=RLX-comp-chim_CV_p5_RS_1_reversed 8678 10527
+Cvic_tig07	CV_p5_REPET_TEs	match_part	74496	78492	.	+	.	ID=ms797_Cvic_tig12_p5_RLX-comp-chim_CV_p5_RS_1_reversed;Target=RLX-comp-chim_CV_p5_RS_1_reversed 8678 10527
+Cvic_tig07	CV_p5_REPET_TEs	match_part	8570	8636	.	-	.	ID=ms823_Cvic_tig12_p5_RLX-incomp_CV_p5-B-R43-Map4;Target=RLX-incomp_CV_p5-B-R43-Map4 5007 5077
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1487197	1489426	.	+	.	ID=ms645_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B10-Map1;Target=RLX-incomp_CV_p5-L-B10-Map1 10679 12924
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1489422	1489674	.	+	.	ID=ms645_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B10-Map1;Target=RLX-incomp_CV_p5-L-B10-Map1 10679 12924
+Cvic_tig07	CV_p5_REPET_TEs	match_part	147528	147603	.	+	.	ID=ms780_Cvic_tig12_p5_RLX-incomp-chim_CV_p5-L-B19-Map1_reversed;Target=RLX-incomp-chim_CV_p5-L-B19-Map1_reversed 7324 7399
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1949435	1949671	.	-	.	ID=ms515_Cvic_tig12_p5_DTX-comp_CV_p5-B-R49-Map20;Target=DTX-comp_CV_p5-B-R49-Map20 1 241
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2043406	2043604	.	+	.	ID=ms532_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B11-Map1;Target=RLX-incomp_CV_p5-L-B11-Map1 2329 2529
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1985823	1985936	.	-	.	ID=ms559_Cvic_tig12_p5_RXX-LARD_CV_p5-L-B7-Map1;Target=RXX-LARD_CV_p5-L-B7-Map1 5263 5376
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1915890	1915917	.	+	.	ID=ms530_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B11-Map1;Target=RLX-incomp_CV_p5-L-B11-Map1 16700 16727
+Cvic_tig07	CV_p5_REPET_TEs	match_part	135824	136882	.	-	.	ID=ms771_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B11-Map1;Target=RLX-incomp_CV_p5-L-B11-Map1 6077 7289
+Cvic_tig07	CV_p5_REPET_TEs	match_part	79639	79817	.	-	.	ID=ms2123_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B10-Map1;Target=RLX-incomp_CV_p5-L-B10-Map1 8221 8397
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2099060	2105468	.	+	.	ID=ms521_Cvic_tig12_p5_PotentialHostGene_CV_p5-B-R87-Map3;Target=PotentialHostGene_CV_p5-B-R87-Map3 1 6401
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1917282	1919103	.	+	.	ID=ms541_Cvic_tig12_p5_RYX-incomp-chim_CV_p5-L-B25-Map1_reversed;Target=RYX-incomp-chim_CV_p5-L-B25-Map1_reversed 328 2149
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2046990	2047026	.	+	.	ID=ms506_Cvic_tig12_p5_DTX-incomp_CV_p5-B-G111-Map3;Target=DTX-incomp_CV_p5-B-G111-Map3 1506 1542
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2047329	2047456	.	+	.	ID=ms506_Cvic_tig12_p5_DTX-incomp_CV_p5-B-G111-Map3;Target=DTX-incomp_CV_p5-B-G111-Map3 1506 1542
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1915374	1915889	.	+	.	ID=ms529_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B11-Map1;Target=RLX-incomp_CV_p5-L-B11-Map1 16185 16699
+Cvic_tig07	CV_p5_REPET_TEs	match_part	49156	49516	.	+	.	ID=ms787_Cvic_tig12_p5_RXX-LARD_CV_p5-L-B7-Map1;Target=RXX-LARD_CV_p5-L-B7-Map1 10052 10411
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2041598	2042829	.	-	.	ID=ms573_Cvic_tig12_p5_DTX-comp_CV_p5-B-G105-Map5;Target=DTX-comp_CV_p5-B-G105-Map5 265 1494
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1965815	1966118	.	-	.	ID=ms560_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B9-Map1_reversed;Target=DTX-incomp-chim_CV_p5-L-B9-Map1_reversed 1874 2181
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1951883	1951943	.	-	.	ID=ms499_Cvic_tig12_p5_DTX-incomp_CV_p5_RS_31_reversed;Target=DTX-incomp_CV_p5_RS_31_reversed 1695 1755
+Cvic_tig07	CV_p5_REPET_TEs	match_part	38991	39176	.	+	.	ID=ms849_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B51-Map1_reversed;Target=DTX-incomp-chim_CV_p5-L-B51-Map1_reversed 2143 2359
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1888846	1890610	.	-	.	ID=ms622_Cvic_tig12_p5_RXX-LARD_CV_p5-B-R34-Map12;Target=RXX-LARD_CV_p5-B-R34-Map12 6977 8749
+Cvic_tig07	CV_p5_REPET_TEs	match_part	930011	930102	.	-	.	ID=ms664_Cvic_tig12_p5_RLX-incomp-chim_CV_p5-L-B16-Map1_reversed;Target=RLX-incomp-chim_CV_p5-L-B16-Map1_reversed 9841 9932
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2057949	2058477	.	+	.	ID=ms566_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B9-Map1_reversed;Target=DTX-incomp-chim_CV_p5-L-B9-Map1_reversed 17022 17575
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1492044	1492286	.	+	.	ID=ms2126_Cvic_tig12_p5_DTX-incomp_CV_p5-B-R45-Map11_reversed;Target=DTX-incomp_CV_p5-B-R45-Map11_reversed 978 1210
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1845290	1845317	.	+	.	ID=ms599_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B11-Map1;Target=RLX-incomp_CV_p5-L-B11-Map1 16148 16175
+Cvic_tig07	CV_p5_REPET_TEs	match_part	92153	105804	.	-	.	ID=ms837_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B14-Map1_reversed;Target=DTX-incomp-chim_CV_p5-L-B14-Map1_reversed 1 13652
+Cvic_tig07	CV_p5_REPET_TEs	match_part	16511	16541	.	-	.	ID=ms749_Cvic_tig12_p5_RLX-incomp_CV_p5-B-R33-Map12;Target=RLX-incomp_CV_p5-B-R33-Map12 128 158
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2006553	2006622	.	+	.	ID=ms561_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B9-Map1_reversed;Target=DTX-incomp-chim_CV_p5-L-B9-Map1_reversed 15581 15650
+Cvic_tig07	CV_p5_REPET_TEs	match_part	59809	59979	.	+	.	ID=ms818_Cvic_tig12_p5_DTX-incomp_CV_p5-B-R31-Map4;Target=DTX-incomp_CV_p5-B-R31-Map4 363 533
+Cvic_tig07	CV_p5_REPET_TEs	match_part	37621	37860	.	+	.	ID=ms844_Cvic_tig12_p5_RLX-incomp-chim_CV_p5-L-B23-Map1_reversed;Target=RLX-incomp-chim_CV_p5-L-B23-Map1_reversed 408 653
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1021683	1021937	.	+	.	ID=ms656_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B11-Map1;Target=RLX-incomp_CV_p5-L-B11-Map1 6078 6344
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1321228	1321405	.	-	.	ID=ms655_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B11-Map1;Target=RLX-incomp_CV_p5-L-B11-Map1 2344 2525
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1980608	1980639	.	+	.	ID=ms569_Cvic_tig12_p5_DXX-MITE_CV_p5_RS_91;Target=DXX-MITE_CV_p5_RS_91 167 198
+Cvic_tig07	CV_p5_REPET_TEs	match_part	940368	940625	.	+	.	ID=ms659_Cvic_tig12_p5_RLX-incomp-chim_CV_p5-B-G42-Map6;Target=RLX-incomp-chim_CV_p5-B-G42-Map6 6652 6909
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1270926	1271006	.	+	.	ID=ms653_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B11-Map1;Target=RLX-incomp_CV_p5-L-B11-Map1 6078 6158
+Cvic_tig07	CV_p5_REPET_TEs	match_part	141014	141155	.	-	.	ID=ms839_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B21-Map1_reversed;Target=DTX-incomp-chim_CV_p5-L-B21-Map1_reversed 4527 4667
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1486658	1486935	.	-	.	ID=ms633_Cvic_tig12_p5_DTX-comp_CV_p5-B-G107-Map3_reversed;Target=DTX-comp_CV_p5-B-G107-Map3_reversed 1 278
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1319427	1319597	.	-	.	ID=ms654_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B11-Map1;Target=RLX-incomp_CV_p5-L-B11-Map1 6079 6246
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1847461	1847536	.	+	.	ID=ms614_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B6-Map1;Target=DTX-incomp-chim_CV_p5-L-B6-Map1 21282 21360
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1940581	1940760	.	-	.	ID=ms516_Cvic_tig12_p5_RLX-incomp_CV_p5-B-R54-Map7_reversed;Target=RLX-incomp_CV_p5-B-R54-Map7_reversed 5133 5312
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1	6676	.	+	.	ID=ms815_Cvic_tig12_p5_PotentialHostGene_CV_p5-B-G41-Map20;Target=PotentialHostGene_CV_p5-B-G41-Map20 768 7568
+Cvic_tig07	CV_p5_REPET_TEs	match_part	52652	53088	.	-	.	ID=ms790_Cvic_tig12_p5_RXX-LARD_CV_p5-L-B7-Map1;Target=RXX-LARD_CV_p5-L-B7-Map1 16 435
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2008424	2008550	.	-	.	ID=ms538_Cvic_tig12_p5_RLX-incomp-chim_CV_p5-L-B23-Map1_reversed;Target=RLX-incomp-chim_CV_p5-L-B23-Map1_reversed 1230 1358
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1478430	1478612	.	-	.	ID=ms651_Cvic_tig12_p5_RLX-incomp-chim_CV_p5-L-B8-Map1;Target=RLX-incomp-chim_CV_p5-L-B8-Map1 13282 13464
+Cvic_tig07	CV_p5_REPET_TEs	match_part	147604	147752	.	-	.	ID=ms775_Cvic_tig12_p5_RYX-incomp-chim_CV_p5-L-B15-Map1_reversed;Target=RYX-incomp-chim_CV_p5-L-B15-Map1_reversed 8832 8980
+Cvic_tig07	CV_p5_REPET_TEs	match_part	63604	65281	.	+	.	ID=ms796_Cvic_tig12_p5_RLX-comp-chim_CV_p5_RS_1_reversed;Target=RLX-comp-chim_CV_p5_RS_1_reversed 7011 8680
+Cvic_tig07	CV_p5_REPET_TEs	match_part	262980	263029	.	+	.	ID=ms741_Cvic_tig12_p5_RLX-incomp_CV_p5-B-R4-Map11_reversed;Target=RLX-incomp_CV_p5-B-R4-Map11_reversed 4647 4696
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2007818	2008015	.	-	.	ID=ms571_Cvic_tig12_p5_DXX-MITE_CV_p5_RS_91;Target=DXX-MITE_CV_p5_RS_91 1 198
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1885402	1885749	.	+	.	ID=ms594_Cvic_tig12_p5_RXX_CV_p5-B-R30-Map3;Target=RXX_CV_p5-B-R30-Map3 490 837
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1845557	1846464	.	-	.	ID=ms610_Cvic_tig12_p5_RLX-incomp-chim_CV_p5-L-B19-Map1_reversed;Target=RLX-incomp-chim_CV_p5-L-B19-Map1_reversed 2 763
+Cvic_tig07	CV_p5_REPET_TEs	match_part	6677	6733	.	+	.	ID=ms748_Cvic_tig12_p5_RLX-incomp_CV_p5-B-R33-Map12;Target=RLX-incomp_CV_p5-B-R33-Map12 99 155
+Cvic_tig07	CV_p5_REPET_TEs	match_part	10058	10126	.	-	.	ID=ms791_Cvic_tig12_p5_RLX-incomp-chim_CV_p5-L-B8-Map1;Target=RLX-incomp-chim_CV_p5-L-B8-Map1 13969 14037
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2056711	2056916	.	-	.	ID=ms563_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B9-Map1_reversed;Target=DTX-incomp-chim_CV_p5-L-B9-Map1_reversed 15024 15238
+Cvic_tig07	CV_p5_REPET_TEs	match_part	38720	38914	.	+	.	ID=ms825_Cvic_tig12_p5_DTX-incomp_CV_p5-B-R45-Map11_reversed;Target=DTX-incomp_CV_p5-B-R45-Map11_reversed 16 244
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1802457	1802718	.	+	.	ID=ms587_Cvic_tig12_p5_RLX-comp-chim_CV_p5_RS_3_reversed;Target=RLX-comp-chim_CV_p5_RS_3_reversed 4225 4487
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1280193	1280593	.	-	.	ID=ms652_Cvic_tig12_p5_DTX-incomp_CV_p5_RS_31_reversed;Target=DTX-incomp_CV_p5_RS_31_reversed 1238 1638
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1859189	1859295	.	+	.	ID=ms621_Cvic_tig12_p5_DXX-MITE_CV_p5_RS_75;Target=DXX-MITE_CV_p5_RS_75 1 107
+Cvic_tig07	CV_p5_REPET_TEs	match_part	236541	236766	.	+	.	ID=ms740_Cvic_tig12_p5_RXX-LARD_CV_p5-L-B7-Map1;Target=RXX-LARD_CV_p5-L-B7-Map1 19740 19964
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2004330	2006437	.	+	.	ID=ms584_Cvic_tig12_p5_DTX-incomp_CV_p5-B-R82-Map4;Target=DTX-incomp_CV_p5-B-R82-Map4 1 2114
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1495449	1495925	.	+	.	ID=ms642_Cvic_tig12_p5_DTX-incomp_CV_p5-B-R45-Map11_reversed;Target=DTX-incomp_CV_p5-B-R45-Map11_reversed 2053 2529
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1501387	1501695	.	+	.	ID=ms642_Cvic_tig12_p5_DTX-incomp_CV_p5-B-R45-Map11_reversed;Target=DTX-incomp_CV_p5-B-R45-Map11_reversed 2053 2529
+Cvic_tig07	CV_p5_REPET_TEs	match_part	929417	929596	.	-	.	ID=ms669_Cvic_tig12_p5_RXX-LARD_CV_p5-L-B52-Map1;Target=RXX-LARD_CV_p5-L-B52-Map1 1 180
+Cvic_tig07	CV_p5_REPET_TEs	match_part	198524	198698	.	-	.	ID=ms735_Cvic_tig12_p5_RLX-incomp-chim_CV_p5-B-G42-Map6;Target=RLX-incomp-chim_CV_p5-B-G42-Map6 6736 6909
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1888764	1888845	.	-	.	ID=ms589_Cvic_tig12_p5_noCat_CV_p5-B-G6-Map20;Target=noCat_CV_p5-B-G6-Map20 2743 2825
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2087016	2088840	.	+	.	ID=ms575_Cvic_tig12_p5_DTX-comp_CV_p5-B-P17.3-Map7_reversed;Target=DTX-comp_CV_p5-B-P17.3-Map7_reversed 5 1831
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2056941	2057083	.	+	.	ID=ms564_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B9-Map1_reversed;Target=DTX-incomp-chim_CV_p5-L-B9-Map1_reversed 18586 18719
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1864915	1865238	.	+	.	ID=ms609_Cvic_tig12_p5_RLX-comp-chim_CV_p5-L-B17-Map1_reversed;Target=RLX-comp-chim_CV_p5-L-B17-Map1_reversed 6916 7239
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1867353	1869684	.	+	.	ID=ms609_Cvic_tig12_p5_RLX-comp-chim_CV_p5-L-B17-Map1_reversed;Target=RLX-comp-chim_CV_p5-L-B17-Map1_reversed 6916 7239
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1883285	1884861	.	+	.	ID=ms609_Cvic_tig12_p5_RLX-comp-chim_CV_p5-L-B17-Map1_reversed;Target=RLX-comp-chim_CV_p5-L-B17-Map1_reversed 6916 7239
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1885750	1886091	.	+	.	ID=ms609_Cvic_tig12_p5_RLX-comp-chim_CV_p5-L-B17-Map1_reversed;Target=RLX-comp-chim_CV_p5-L-B17-Map1_reversed 6916 7239
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1923907	1924986	.	-	.	ID=ms542_Cvic_tig12_p5_RYX-incomp-chim_CV_p5-L-B25-Map1_reversed;Target=RYX-incomp-chim_CV_p5-L-B25-Map1_reversed 1109 2146
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1949672	1949705	.	-	.	ID=ms557_Cvic_tig12_p5_RXX-LARD_CV_p5-L-B7-Map1;Target=RXX-LARD_CV_p5-L-B7-Map1 19991 20023
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1967585	1967608	.	-	.	ID=ms531_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B11-Map1;Target=RLX-incomp_CV_p5-L-B11-Map1 7298 7322
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1790069	1790233	.	+	.	ID=ms618_Cvic_tig12_p5_RXX-LARD_CV_p5-L-B7-Map1;Target=RXX-LARD_CV_p5-L-B7-Map1 5989 6134
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2059826	2069344	.	-	.	ID=ms524_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-B-R89-Map3_reversed;Target=DTX-incomp-chim_CV_p5-B-R89-Map3_reversed 1 9464
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2047973	2048124	.	-	.	ID=ms534_Cvic_tig12_p5_RLX-incomp-chim_CV_p5-L-B16-Map1_reversed;Target=RLX-incomp-chim_CV_p5-L-B16-Map1_reversed 1052 1204
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1850266	1851917	.	+	.	ID=ms615_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B6-Map1;Target=DTX-incomp-chim_CV_p5-L-B6-Map1 17268 18921
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1857832	1858486	.	+	.	ID=ms615_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B6-Map1;Target=DTX-incomp-chim_CV_p5-L-B6-Map1 17268 18921
+Cvic_tig07	CV_p5_REPET_TEs	match_part	177923	179073	.	+	.	ID=ms852_Cvic_tig12_p5_RXX-TRIM-chim_CV_p5-L-B54-Map1_reversed;Target=RXX-TRIM-chim_CV_p5-L-B54-Map1_reversed 1 1129
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2026624	2028443	.	-	.	ID=ms552_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B5-Map1_reversed;Target=DTX-incomp-chim_CV_p5-L-B5-Map1_reversed 1 1824
+Cvic_tig07	CV_p5_REPET_TEs	match_part	126730	128567	.	+	.	ID=ms803_Cvic_tig12_p5_DTX-incomp_CV_p5_RS_29_reversed;Target=DTX-incomp_CV_p5_RS_29_reversed 1 1838
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2043607	2043681	.	+	.	ID=ms586_Cvic_tig12_p5_PotentialHostGene_CV_p5-B-R57-Map3;Target=PotentialHostGene_CV_p5-B-R57-Map3 5241 5316
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2057515	2057542	.	+	.	ID=ms565_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B9-Map1_reversed;Target=DTX-incomp-chim_CV_p5-L-B9-Map1_reversed 18311 18338
+Cvic_tig07	CV_p5_REPET_TEs	match_part	128568	128599	.	+	.	ID=ms753_Cvic_tig12_p5_RLX-incomp_CV_p5-B-R60-Map4_reversed;Target=RLX-incomp_CV_p5-B-R60-Map4_reversed 4417 4448
+Cvic_tig07	CV_p5_REPET_TEs	match_part	140340	140640	.	+	.	ID=ms831_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-B-R89-Map3_reversed;Target=DTX-incomp-chim_CV_p5-B-R89-Map3_reversed 335 621
+Cvic_tig07	CV_p5_REPET_TEs	match_part	8801	8860	.	-	.	ID=ms843_Cvic_tig12_p5_RLX-incomp-chim_CV_p5-L-B23-Map1_reversed;Target=RLX-incomp-chim_CV_p5-L-B23-Map1_reversed 1216 1371
+Cvic_tig07	CV_p5_REPET_TEs	match_part	8637	8788	.	-	.	ID=ms843_Cvic_tig12_p5_RLX-incomp-chim_CV_p5-L-B23-Map1_reversed;Target=RLX-incomp-chim_CV_p5-L-B23-Map1_reversed 1216 1371
+Cvic_tig07	CV_p5_REPET_TEs	match_part	12228	12326	.	-	.	ID=ms743_Cvic_tig12_p5_DTX-incomp_CV_p5-B-R69-Map3_reversed;Target=DTX-incomp_CV_p5-B-R69-Map3_reversed 3332 3419
+Cvic_tig07	CV_p5_REPET_TEs	match_part	23059	23581	.	+	.	ID=ms799_Cvic_tig12_p5_RLX-comp_CV_p5_RS_4_reversed;Target=RLX-comp_CV_p5_RS_4_reversed 4551 5077
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2092434	2093608	.	+	.	ID=ms140_Cvic_tig12_p5_DTX-comp_CV_p5-B-G105-Map5;Target=DTX-comp_CV_p5-B-G105-Map5 236 1416
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1485673	1485871	.	-	.	ID=ms632_Cvic_tig12_p5_DTX-comp_CV_p5-B-G107-Map3_reversed;Target=DTX-comp_CV_p5-B-G107-Map3_reversed 1066 1264
+Cvic_tig07	CV_p5_REPET_TEs	match_part	938927	939114	.	-	.	ID=ms667_Cvic_tig12_p5_RXX-LARD_CV_p5-L-B7-Map1;Target=RXX-LARD_CV_p5-L-B7-Map1 5989 6206
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1847537	1850202	.	-	.	ID=ms591_Cvic_tig12_p5_DTX-comp_CV_p5-B-R15-Map4_reversed;Target=DTX-comp_CV_p5-B-R15-Map4_reversed 1 2666
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1813080	1813372	.	+	.	ID=ms613_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B5-Map1_reversed;Target=DTX-incomp-chim_CV_p5-L-B5-Map1_reversed 16165 16455
+Cvic_tig07	CV_p5_REPET_TEs	match_part	51727	52103	.	-	.	ID=ms789_Cvic_tig12_p5_RXX-LARD_CV_p5-L-B7-Map1;Target=RXX-LARD_CV_p5-L-B7-Map1 796 1172
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1995420	1995556	.	+	.	ID=ms549_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B5-Map1_reversed;Target=DTX-incomp-chim_CV_p5-L-B5-Map1_reversed 16327 16446
+Cvic_tig07	CV_p5_REPET_TEs	match_part	155051	155378	.	+	.	ID=ms813_Cvic_tig12_p5_RIX-incomp_CV_p5-B-G32-Map4_reversed;Target=RIX-incomp_CV_p5-B-G32-Map4_reversed 2 326
+Cvic_tig07	CV_p5_REPET_TEs	match_part	78777	79116	.	-	.	ID=ms792_Cvic_tig12_p5_RLX-incomp-chim_CV_p5-L-B8-Map1;Target=RLX-incomp-chim_CV_p5-L-B8-Map1 6193 6495
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1899704	1901812	.	+	.	ID=ms626_Cvic_tig12_p5_DTX-incomp_CV_p5-B-R82-Map4;Target=DTX-incomp_CV_p5-B-R82-Map4 2 2114
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1486936	1487191	.	-	.	ID=ms638_Cvic_tig12_p5_DTX-incomp_CV_p5-B-R45-Map11_reversed;Target=DTX-incomp_CV_p5-B-R45-Map11_reversed 220 475
+Cvic_tig07	CV_p5_REPET_TEs	match_part	107418	126272	.	+	.	ID=ms765_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B10-Map1;Target=RLX-incomp_CV_p5-L-B10-Map1 1 18855
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2050042	2050099	.	-	.	ID=ms510_Cvic_tig12_p5_DTX-comp_CV_p5-B-R15-Map4_reversed;Target=DTX-comp_CV_p5-B-R15-Map4_reversed 718 775
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1967609	1968109	.	+	.	ID=ms555_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B6-Map1;Target=DTX-incomp-chim_CV_p5-L-B6-Map1 9025 9532
+Cvic_tig07	CV_p5_REPET_TEs	match_part	126273	126310	.	+	.	ID=ms781_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B6-Map1;Target=DTX-incomp-chim_CV_p5-L-B6-Map1 8201 8238
+Cvic_tig07	CV_p5_REPET_TEs	match_part	126274	126310	.	+	.	ID=ms781_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B6-Map1;Target=DTX-incomp-chim_CV_p5-L-B6-Map1 8201 8238
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1997072	1997271	.	+	.	ID=ms505_Cvic_tig12_p5_DTX-incomp_CV_p5-B-G111-Map3;Target=DTX-incomp_CV_p5-B-G111-Map3 1033 1233
+Cvic_tig07	CV_p5_REPET_TEs	match_part	264789	264832	.	-	.	ID=ms738_Cvic_tig12_p5_RYX-incomp-chim_CV_p5-L-B15-Map1_reversed;Target=RYX-incomp-chim_CV_p5-L-B15-Map1_reversed 2214 2256
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2043869	2043981	.	-	.	ID=ms539_Cvic_tig12_p5_RLX-incomp-chim_CV_p5-L-B23-Map1_reversed;Target=RLX-incomp-chim_CV_p5-L-B23-Map1_reversed 178 293
+Cvic_tig07	CV_p5_REPET_TEs	match_part	9700	9817	.	-	.	ID=ms2122_Cvic_tig12_p5_RLX-incomp-chim_CV_p5-L-B23-Map1_reversed;Target=RLX-incomp-chim_CV_p5-L-B23-Map1_reversed 288 405
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1943389	1945885	.	-	.	ID=ms517_Cvic_tig12_p5_RLX-incomp_CV_p5-B-R54-Map7_reversed;Target=RLX-incomp_CV_p5-B-R54-Map7_reversed 1 2500
+Cvic_tig07	CV_p5_REPET_TEs	match_part	135415	135494	.	-	.	ID=ms770_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B11-Map1;Target=RLX-incomp_CV_p5-L-B11-Map1 15640 15715
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1919104	1921836	.	-	.	ID=ms2128_Cvic_tig12_p5_RYX-incomp-chim_CV_p5-L-B25-Map1_reversed;Target=RYX-incomp-chim_CV_p5-L-B25-Map1_reversed 2155 4884
+Cvic_tig07	CV_p5_REPET_TEs	match_part	24360	33068	.	-	.	ID=ms821_Cvic_tig12_p5_RXX-LARD_CV_p5-B-R34-Map12;Target=RXX-LARD_CV_p5-B-R34-Map12 2 8749
+Cvic_tig07	CV_p5_REPET_TEs	match_part	59980	60496	.	+	.	ID=ms806_Cvic_tig12_p5_RLX-incomp_CV_p5_RS_37;Target=RLX-incomp_CV_p5_RS_37 1 514
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1958208	1958499	.	+	.	ID=ms558_Cvic_tig12_p5_RXX-LARD_CV_p5-L-B7-Map1;Target=RXX-LARD_CV_p5-L-B7-Map1 5263 5553
+Cvic_tig07	CV_p5_REPET_TEs	match_part	83447	83712	.	-	.	ID=ms846_Cvic_tig12_p5_RLX-incomp-chim_CV_p5-L-B23-Map1_reversed;Target=RLX-incomp-chim_CV_p5-L-B23-Map1_reversed 1200 1466
+Cvic_tig07	CV_p5_REPET_TEs	match_part	62909	63213	.	+	.	ID=ms752_Cvic_tig12_p5_RLX-incomp_CV_p5-B-R33-Map12;Target=RLX-incomp_CV_p5-B-R33-Map12 5647 5952
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1494790	1495448	.	+	.	ID=ms631_Cvic_tig12_p5_DTX-incomp_CV_p5_RS_29_reversed;Target=DTX-incomp_CV_p5_RS_29_reversed 1182 1836
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1495926	1501386	.	+	.	ID=ms650_Cvic_tig12_p5_RLX-incomp-chim_CV_p5-L-B49-Map1;Target=RLX-incomp-chim_CV_p5-L-B49-Map1 1 5461
+Cvic_tig07	CV_p5_REPET_TEs	match_part	49517	49539	.	-	.	ID=ms788_Cvic_tig12_p5_RXX-LARD_CV_p5-L-B7-Map1;Target=RXX-LARD_CV_p5-L-B7-Map1 10043 10065
+Cvic_tig07	CV_p5_REPET_TEs	match_part	930103	930372	.	-	.	ID=ms666_Cvic_tig12_p5_RXX-LARD_CV_p5-L-B7-Map1;Target=RXX-LARD_CV_p5-L-B7-Map1 10052 10327
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1863921	1864914	.	-	.	ID=ms592_Cvic_tig12_p5_RLX-incomp_CV_p5-B-R3-Map8_reversed;Target=RLX-incomp_CV_p5-B-R3-Map8_reversed 4907 5900
+Cvic_tig07	CV_p5_REPET_TEs	match_part	78565	78765	.	+	.	ID=ms754_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-B-R90-Map4_reversed;Target=DTX-incomp-chim_CV_p5-B-R90-Map4_reversed 12498 12691
+Cvic_tig07	CV_p5_REPET_TEs	match_part	915471	915588	.	-	.	ID=ms661_Cvic_tig12_p5_RLX-incomp_CV_p5-B-R43-Map4;Target=RLX-incomp_CV_p5-B-R43-Map4 5074 5190
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1921837	1922908	.	-	.	ID=ms585_Cvic_tig12_p5_RXX-LARD_CV_p5-L-B52-Map1;Target=RXX-LARD_CV_p5-L-B52-Map1 495 1583
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1484777	1485672	.	+	.	ID=ms644_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B10-Map1;Target=RLX-incomp_CV_p5-L-B10-Map1 8652 9479
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1492742	1492795	.	+	.	ID=ms2127_Cvic_tig12_p5_DTX-incomp_CV_p5-B-R45-Map11_reversed;Target=DTX-incomp_CV_p5-B-R45-Map11_reversed 1204 1257
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1851918	1857831	.	+	.	ID=ms608_Cvic_tig12_p5_RLX-comp-chim_CV_p5-L-B17-Map1_reversed;Target=RLX-comp-chim_CV_p5-L-B17-Map1_reversed 1008 6926
+Cvic_tig07	CV_p5_REPET_TEs	match_part	50882	51719	.	+	.	ID=ms795_Cvic_tig12_p5_RLX-comp-chim_CV_p5_RS_1_reversed;Target=RLX-comp-chim_CV_p5_RS_1_reversed 82 920
+Cvic_tig07	CV_p5_REPET_TEs	match_part	52107	52650	.	+	.	ID=ms795_Cvic_tig12_p5_RLX-comp-chim_CV_p5_RS_1_reversed;Target=RLX-comp-chim_CV_p5_RS_1_reversed 82 920
+Cvic_tig07	CV_p5_REPET_TEs	match_part	53089	58368	.	+	.	ID=ms795_Cvic_tig12_p5_RLX-comp-chim_CV_p5_RS_1_reversed;Target=RLX-comp-chim_CV_p5_RS_1_reversed 82 920
+Cvic_tig07	CV_p5_REPET_TEs	match_part	38648	38705	.	+	.	ID=ms767_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B11-Map1;Target=RLX-incomp_CV_p5-L-B11-Map1 1342 1399
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2088845	2089479	.	-	.	ID=ms501_Cvic_tig12_p5_DTX-incomp_CV_p5_RS_31_reversed;Target=DTX-incomp_CV_p5_RS_31_reversed 280 914
+Cvic_tig07	CV_p5_REPET_TEs	match_part	9568	9654	.	+	.	ID=ms783_Cvic_tig12_p5_RXX-LARD_CV_p5-L-B7-Map1;Target=RXX-LARD_CV_p5-L-B7-Map1 10176 10263
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1491529	1491599	.	+	.	ID=ms639_Cvic_tig12_p5_DTX-incomp_CV_p5-B-R45-Map11_reversed;Target=DTX-incomp_CV_p5-B-R45-Map11_reversed 483 550
+Cvic_tig07	CV_p5_REPET_TEs	match_part	50287	50344	.	-	.	ID=ms768_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B11-Map1;Target=RLX-incomp_CV_p5-L-B11-Map1 2092 2149
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2025763	2025895	.	+	.	ID=ms526_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-B-R90-Map4_reversed;Target=DTX-incomp-chim_CV_p5-B-R90-Map4_reversed 7904 8043
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2049472	2050041	.	-	.	ID=ms509_Cvic_tig12_p5_DTX-comp_CV_p5-B-R15-Map4_reversed;Target=DTX-comp_CV_p5-B-R15-Map4_reversed 777 1343
+Cvic_tig07	CV_p5_REPET_TEs	match_part	9655	9699	.	-	.	ID=ms782_Cvic_tig12_p5_RXX-LARD_CV_p5-L-B7-Map1;Target=RXX-LARD_CV_p5-L-B7-Map1 1313 1485
+Cvic_tig07	CV_p5_REPET_TEs	match_part	9396	9567	.	-	.	ID=ms782_Cvic_tig12_p5_RXX-LARD_CV_p5-L-B7-Map1;Target=RXX-LARD_CV_p5-L-B7-Map1 1313 1485
+Cvic_tig07	CV_p5_REPET_TEs	match_part	938895	938926	.	-	.	ID=ms663_Cvic_tig12_p5_RYX-incomp-chim_CV_p5-L-B15-Map1_reversed;Target=RYX-incomp-chim_CV_p5-L-B15-Map1_reversed 229 260
+Cvic_tig07	CV_p5_REPET_TEs	match_part	6734	7214	.	+	.	ID=ms778_Cvic_tig12_p5_RLX-incomp-chim_CV_p5-L-B19-Map1_reversed;Target=RLX-incomp-chim_CV_p5-L-B19-Map1_reversed 2909 3390
+Cvic_tig07	CV_p5_REPET_TEs	match_part	7250	7752	.	+	.	ID=ms778_Cvic_tig12_p5_RLX-incomp-chim_CV_p5-L-B19-Map1_reversed;Target=RLX-incomp-chim_CV_p5-L-B19-Map1_reversed 2909 3390
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1884923	1885401	.	-	.	ID=ms607_Cvic_tig12_p5_RYX-incomp-chim_CV_p5-L-B15-Map1_reversed;Target=RYX-incomp-chim_CV_p5-L-B15-Map1_reversed 9074 9552
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1973530	1973724	.	+	.	ID=ms504_Cvic_tig12_p5_DTX-incomp_CV_p5-B-G111-Map3;Target=DTX-incomp_CV_p5-B-G111-Map3 1041 1227
+Cvic_tig07	CV_p5_REPET_TEs	match_part	37452	37620	.	+	.	ID=ms805_Cvic_tig12_p5_RLX-incomp_CV_p5_RS_37;Target=RLX-incomp_CV_p5_RS_37 1 173
+Cvic_tig07	CV_p5_REPET_TEs	match_part	37861	37953	.	+	.	ID=ms805_Cvic_tig12_p5_RLX-incomp_CV_p5_RS_37;Target=RLX-incomp_CV_p5_RS_37 1 173
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1861928	1862158	.	-	.	ID=ms611_Cvic_tig12_p5_RLX-incomp-chim_CV_p5-L-B19-Map1_reversed;Target=RLX-incomp-chim_CV_p5-L-B19-Map1_reversed 7190 7420
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1891312	1891336	.	+	.	ID=ms601_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B11-Map1;Target=RLX-incomp_CV_p5-L-B11-Map1 15623 15647
+Cvic_tig07	CV_p5_REPET_TEs	match_part	147841	148226	.	-	.	ID=ms828_Cvic_tig12_p5_DTX-comp_CV_p5-B-R49-Map20;Target=DTX-comp_CV_p5-B-R49-Map20 1 395
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2003461	2003591	.	+	.	ID=ms570_Cvic_tig12_p5_DXX-MITE_CV_p5_RS_91;Target=DXX-MITE_CV_p5_RS_91 1 131
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1489675	1489951	.	+	.	ID=ms634_Cvic_tig12_p5_DTX-comp_CV_p5-B-G107-Map3_reversed;Target=DTX-comp_CV_p5-B-G107-Map3_reversed 6 282
+Cvic_tig07	CV_p5_REPET_TEs	match_part	7798	8569	.	-	.	ID=ms842_Cvic_tig12_p5_RLX-incomp-chim_CV_p5-L-B23-Map1_reversed;Target=RLX-incomp-chim_CV_p5-L-B23-Map1_reversed 1 659
+Cvic_tig07	CV_p5_REPET_TEs	match_part	83110	83446	.	-	.	ID=ms812_Cvic_tig12_p5_RIX-incomp_CV_p5-B-G23-Map10;Target=RIX-incomp_CV_p5-B-G23-Map10 1621 1794
+Cvic_tig07	CV_p5_REPET_TEs	match_part	82850	83017	.	-	.	ID=ms812_Cvic_tig12_p5_RIX-incomp_CV_p5-B-G23-Map10;Target=RIX-incomp_CV_p5-B-G23-Map10 1621 1794
+Cvic_tig07	CV_p5_REPET_TEs	match_part	12961	13164	.	-	.	ID=ms814_Cvic_tig12_p5_DTX-incomp_CV_p5-B-G33-Map3;Target=DTX-incomp_CV_p5-B-G33-Map3 4337 4539
+Cvic_tig07	CV_p5_REPET_TEs	match_part	946862	947373	.	+	.	ID=ms657_Cvic_tig12_p5_RLX-comp-chim_CV_p5_RS_1_reversed;Target=RLX-comp-chim_CV_p5_RS_1_reversed 7004 7512
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1933507	1939425	.	+	.	ID=ms543_Cvic_tig12_p5_RYX-incomp-chim_CV_p5-L-B25-Map1_reversed;Target=RYX-incomp-chim_CV_p5-L-B25-Map1_reversed 2155 8067
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1906634	1906726	.	+	.	ID=ms580_Cvic_tig12_p5_DTX-incomp_CV_p5-B-R45-Map11_reversed;Target=DTX-incomp_CV_p5-B-R45-Map11_reversed 99 190
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1906727	1906881	.	+	.	ID=ms580_Cvic_tig12_p5_DTX-incomp_CV_p5-B-R45-Map11_reversed;Target=DTX-incomp_CV_p5-B-R45-Map11_reversed 99 190
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1906842	1906925	.	+	.	ID=ms580_Cvic_tig12_p5_DTX-incomp_CV_p5-B-R45-Map11_reversed;Target=DTX-incomp_CV_p5-B-R45-Map11_reversed 99 190
+Cvic_tig07	CV_p5_REPET_TEs	match_part	92009	92152	.	-	.	ID=ms816_Cvic_tig12_p5_DTX-incomp_CV_p5-B-G64-Map3;Target=DTX-incomp_CV_p5-B-G64-Map3 778 921
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1915149	1915373	.	+	.	ID=ms498_Cvic_tig12_p5_RLX-comp-chim_CV_p5_RS_1_reversed;Target=RLX-comp-chim_CV_p5_RS_1_reversed 6985 7207
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1625380	1625439	.	+	.	ID=ms627_Cvic_tig12_p5_DTX-incomp_CV_p5-B-R82-Map4;Target=DTX-incomp_CV_p5-B-R82-Map4 1034 1099
+Cvic_tig07	CV_p5_REPET_TEs	match_part	929629	930008	.	+	.	ID=ms665_Cvic_tig12_p5_RXX-LARD_CV_p5-L-B7-Map1;Target=RXX-LARD_CV_p5-L-B7-Map1 10041 10420
+Cvic_tig07	CV_p5_REPET_TEs	match_part	23582	23605	.	-	.	ID=ms833_Cvic_tig12_p5_DTX-incomp_CV_p5-L-B12-Map1;Target=DTX-incomp_CV_p5-L-B12-Map1 16531 16554
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2044046	2044086	.	-	.	ID=ms523_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-B-R89-Map3_reversed;Target=DTX-incomp-chim_CV_p5-B-R89-Map3_reversed 3328 3368
+Cvic_tig07	CV_p5_REPET_TEs	match_part	16564	22481	.	+	.	ID=ms817_Cvic_tig12_p5_RLX-incomp_CV_p5-B-R2-Map20_reversed;Target=RLX-incomp_CV_p5-B-R2-Map20_reversed 2 5938
+Cvic_tig07	CV_p5_REPET_TEs	match_part	24282	24311	.	+	.	ID=ms750_Cvic_tig12_p5_RLX-incomp_CV_p5-B-R33-Map12;Target=RLX-incomp_CV_p5-B-R33-Map12 6743 6774
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2047027	2047328	.	-	.	ID=ms514_Cvic_tig12_p5_RLX-incomp_CV_p5-B-R33-Map12;Target=RLX-incomp_CV_p5-B-R33-Map12 5647 5949
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2001670	2001855	.	+	.	ID=ms550_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B5-Map1_reversed;Target=DTX-incomp-chim_CV_p5-L-B5-Map1_reversed 12365 12550
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1865239	1867350	.	+	.	ID=ms625_Cvic_tig12_p5_DTX-incomp_CV_p5-B-R82-Map4;Target=DTX-incomp_CV_p5-B-R82-Map4 4 2114
+Cvic_tig07	CV_p5_REPET_TEs	match_part	143031	143085	.	-	.	ID=ms840_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B21-Map1_reversed;Target=DTX-incomp-chim_CV_p5-L-B21-Map1_reversed 2606 2660
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2059541	2059825	.	-	.	ID=ms500_Cvic_tig12_p5_DTX-incomp_CV_p5_RS_31_reversed;Target=DTX-incomp_CV_p5_RS_31_reversed 1495 1779
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2044372	2044405	.	-	.	ID=ms536_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B18-Map1_reversed;Target=DTX-incomp-chim_CV_p5-L-B18-Map1_reversed 9887 9920
+Cvic_tig07	CV_p5_REPET_TEs	match_part	89347	90924	.	-	.	ID=ms762_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B10-Map1;Target=RLX-incomp_CV_p5-L-B10-Map1 4643 5538
+Cvic_tig07	CV_p5_REPET_TEs	match_part	87379	88274	.	-	.	ID=ms762_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B10-Map1;Target=RLX-incomp_CV_p5-L-B10-Map1 4643 5538
+Cvic_tig07	CV_p5_REPET_TEs	match_part	90925	91826	.	+	.	ID=ms764_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B10-Map1;Target=RLX-incomp_CV_p5-L-B10-Map1 17989 18854
+Cvic_tig07	CV_p5_REPET_TEs	match_part	126312	126707	.	-	.	ID=ms801_Cvic_tig12_p5_DTX-incomp_CV_p5_RS_29_reversed;Target=DTX-incomp_CV_p5_RS_29_reversed 1005 1687
+Cvic_tig07	CV_p5_REPET_TEs	match_part	106822	107413	.	-	.	ID=ms801_Cvic_tig12_p5_DTX-incomp_CV_p5_RS_29_reversed;Target=DTX-incomp_CV_p5_RS_29_reversed 1005 1687
+Cvic_tig07	CV_p5_REPET_TEs	match_part	105807	106489	.	-	.	ID=ms801_Cvic_tig12_p5_DTX-incomp_CV_p5_RS_29_reversed;Target=DTX-incomp_CV_p5_RS_29_reversed 1005 1687
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2057816	2057946	.	-	.	ID=ms577_Cvic_tig12_p5_RLX-incomp_CV_p5-B-R112-Map3;Target=RLX-incomp_CV_p5-B-R112-Map3 787 921
+Cvic_tig07	CV_p5_REPET_TEs	match_part	128600	129039	.	+	.	ID=ms847_Cvic_tig12_p5_RLX-incomp-chim_CV_p5-L-B32-Map1;Target=RLX-incomp-chim_CV_p5-L-B32-Map1 6661 7076
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1493583	1493615	.	+	.	ID=ms641_Cvic_tig12_p5_DTX-incomp_CV_p5-B-R45-Map11_reversed;Target=DTX-incomp_CV_p5-B-R45-Map11_reversed 2047 2079
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2105469	2110012	.	-	.	ID=ms137_Cvic_tig12_p5_DTX-incomp_CV_p5-B-G33-Map3;Target=DTX-incomp_CV_p5-B-G33-Map3 2 4544
+Cvic_tig07	CV_p5_REPET_TEs	match_part	12581	12683	.	-	.	ID=ms824_Cvic_tig12_p5_DTX-incomp_CV_p5-B-R45-Map11_reversed;Target=DTX-incomp_CV_p5-B-R45-Map11_reversed 9 113
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1923248	1923906	.	+	.	ID=ms511_Cvic_tig12_p5_RLX-incomp_CV_p5-B-R27-Map4_reversed;Target=RLX-incomp_CV_p5-B-R27-Map4_reversed 1 659
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1992958	1993119	.	+	.	ID=ms548_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B5-Map1_reversed;Target=DTX-incomp-chim_CV_p5-L-B5-Map1_reversed 16282 16439
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2015969	2018325	.	-	.	ID=ms551_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B5-Map1_reversed;Target=DTX-incomp-chim_CV_p5-L-B5-Map1_reversed 6391 8750
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1469875	1477846	.	+	.	ID=ms628_Cvic_tig12_p5_RLX-comp-chim_CV_p5_RS_1_reversed;Target=RLX-comp-chim_CV_p5_RS_1_reversed 7014 14523
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1490819	1491528	.	+	.	ID=ms635_Cvic_tig12_p5_DTX-comp_CV_p5-B-G107-Map3_reversed;Target=DTX-comp_CV_p5-B-G107-Map3_reversed 1151 1860
+Cvic_tig07	CV_p5_REPET_TEs	match_part	264591	264788	.	-	.	ID=ms739_Cvic_tig12_p5_RLX-incomp-chim_CV_p5-L-B30-Map1_reversed;Target=RLX-incomp-chim_CV_p5-L-B30-Map1_reversed 6991 7184
+Cvic_tig07	CV_p5_REPET_TEs	match_part	484661	484806	.	+	.	ID=ms733_Cvic_tig12_p5_DTX-incomp_CV_p5-B-R69-Map3_reversed;Target=DTX-incomp_CV_p5-B-R69-Map3_reversed 1559 1704
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1888245	1888564	.	-	.	ID=ms596_Cvic_tig12_p5_RLX-incomp_CV_p5-B-R33-Map12;Target=RLX-incomp_CV_p5-B-R33-Map12 6011 6341
+Cvic_tig07	CV_p5_REPET_TEs	match_part	49541	49576	.	-	.	ID=ms850_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B51-Map1_reversed;Target=DTX-incomp-chim_CV_p5-L-B51-Map1_reversed 2327 2362
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1501696	1514210	.	-	.	ID=ms647_Cvic_tig12_p5_DTX-incomp_CV_p5-L-B12-Map1;Target=DTX-incomp_CV_p5-L-B12-Map1 2411 14641
+Cvic_tig07	CV_p5_REPET_TEs	match_part	50345	50881	.	+	.	ID=ms757_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B10-Map1;Target=RLX-incomp_CV_p5-L-B10-Map1 12526 13010
+Cvic_tig07	CV_p5_REPET_TEs	match_part	69940	72184	.	-	.	ID=ms759_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B10-Map1;Target=RLX-incomp_CV_p5-L-B10-Map1 13427 18086
+Cvic_tig07	CV_p5_REPET_TEs	match_part	65286	69941	.	-	.	ID=ms759_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B10-Map1;Target=RLX-incomp_CV_p5-L-B10-Map1 13427 18086
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1492543	1492741	.	-	.	ID=ms646_Cvic_tig12_p5_DTX-incomp_CV_p5-L-B12-Map1;Target=DTX-incomp_CV_p5-L-B12-Map1 16326 16592
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1492287	1492565	.	-	.	ID=ms646_Cvic_tig12_p5_DTX-incomp_CV_p5-L-B12-Map1;Target=DTX-incomp_CV_p5-L-B12-Map1 16326 16592
+Cvic_tig07	CV_p5_REPET_TEs	match_part	39177	39603	.	+	.	ID=ms756_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B10-Map1;Target=RLX-incomp_CV_p5-L-B10-Map1 8270 8730
+Cvic_tig07	CV_p5_REPET_TEs	match_part	15621	15733	.	+	.	ID=ms744_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B9-Map1_reversed;Target=DTX-incomp-chim_CV_p5-L-B9-Map1_reversed 15783 15897
+Cvic_tig07	CV_p5_REPET_TEs	match_part	58616	59697	.	+	.	ID=ms758_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B10-Map1;Target=RLX-incomp_CV_p5-L-B10-Map1 12358 13441
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1844856	1845115	.	-	.	ID=ms619_Cvic_tig12_p5_RLX-incomp-chim_CV_p5-L-B8-Map1;Target=RLX-incomp-chim_CV_p5-L-B8-Map1 6490 6749
+Cvic_tig07	CV_p5_REPET_TEs	match_part	38112	38615	.	+	.	ID=ms845_Cvic_tig12_p5_RLX-incomp-chim_CV_p5-L-B23-Map1_reversed;Target=RLX-incomp-chim_CV_p5-L-B23-Map1_reversed 1228 1731
+Cvic_tig07	CV_p5_REPET_TEs	match_part	86686	87378	.	+	.	ID=ms761_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B10-Map1;Target=RLX-incomp_CV_p5-L-B10-Map1 13918 14582
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1869685	1883284	.	-	.	ID=ms606_Cvic_tig12_p5_RYX-incomp-chim_CV_p5-L-B15-Map1_reversed;Target=RYX-incomp-chim_CV_p5-L-B15-Map1_reversed 1 13600
+Cvic_tig07	CV_p5_REPET_TEs	match_part	74035	74495	.	+	.	ID=ms760_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B10-Map1;Target=RLX-incomp_CV_p5-L-B10-Map1 1583 2043
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1846598	1846920	.	-	.	ID=ms620_Cvic_tig12_p5_RLX-incomp-chim_CV_p5-L-B8-Map1;Target=RLX-incomp-chim_CV_p5-L-B8-Map1 5597 5919
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1469702	1469873	.	+	.	ID=ms636_Cvic_tig12_p5_RLX-incomp_CV_p5-B-R33-Map12;Target=RLX-incomp_CV_p5-B-R33-Map12 6012 6193
+Cvic_tig07	CV_p5_REPET_TEs	match_part	23853	24063	.	+	.	ID=ms794_Cvic_tig12_p5_RLX-comp-chim_CV_p5_RS_1_reversed;Target=RLX-comp-chim_CV_p5_RS_1_reversed 5643 5820
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1477853	1478355	.	+	.	ID=ms643_Cvic_tig12_p5_RLX-incomp_CV_p5-B-R78-Map4;Target=RLX-incomp_CV_p5-B-R78-Map4 972 1474
+Cvic_tig07	CV_p5_REPET_TEs	match_part	49577	49731	.	-	.	ID=ms836_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B14-Map1_reversed;Target=DTX-incomp-chim_CV_p5-L-B14-Map1_reversed 10299 10451
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2047457	2047551	.	-	.	ID=ms568_Cvic_tig12_p5_DXX-MITE_CV_p5_RS_75;Target=DXX-MITE_CV_p5_RS_75 3 97
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1861880	1861927	.	+	.	ID=ms603_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B13-Map1;Target=DTX-incomp-chim_CV_p5-L-B13-Map1 14152 14199
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1862163	1862184	.	+	.	ID=ms603_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B13-Map1;Target=DTX-incomp-chim_CV_p5-L-B13-Map1 14152 14199
+Cvic_tig07	CV_p5_REPET_TEs	match_part	12338	12518	.	+	.	ID=ms745_Cvic_tig12_p5_DXX-MITE_CV_p5_RS_90;Target=DXX-MITE_CV_p5_RS_90 12 198
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1925859	1925916	.	+	.	ID=ms544_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B31-Map1;Target=RLX-incomp_CV_p5-L-B31-Map1 5229 5287
+Cvic_tig07	CV_p5_REPET_TEs	match_part	79334	79621	.	-	.	ID=ms848_Cvic_tig12_p5_RLX-incomp-chim_CV_p5-L-B49-Map1;Target=RLX-incomp-chim_CV_p5-L-B49-Map1 5117 5384
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1972742	1972992	.	-	.	ID=ms513_Cvic_tig12_p5_RLX-incomp_CV_p5-B-R33-Map12;Target=RLX-incomp_CV_p5-B-R33-Map12 6551 6802
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1945956	1946312	.	-	.	ID=ms554_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B6-Map1;Target=DTX-incomp-chim_CV_p5-L-B6-Map1 14130 21546
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1942477	1943388	.	-	.	ID=ms554_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B6-Map1;Target=DTX-incomp-chim_CV_p5-L-B6-Map1 14130 21546
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1941689	1942478	.	-	.	ID=ms554_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B6-Map1;Target=DTX-incomp-chim_CV_p5-L-B6-Map1 14130 21546
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1940761	1941719	.	-	.	ID=ms554_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B6-Map1;Target=DTX-incomp-chim_CV_p5-L-B6-Map1 14130 21546
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1939426	1940580	.	-	.	ID=ms554_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B6-Map1;Target=DTX-incomp-chim_CV_p5-L-B6-Map1 14130 21546
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1925917	1933506	.	-	.	ID=ms554_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B6-Map1;Target=DTX-incomp-chim_CV_p5-L-B6-Map1 14130 21546
+Cvic_tig07	CV_p5_REPET_TEs	match_part	9818	10034	.	+	.	ID=ms800_Cvic_tig12_p5_DTX-incomp_CV_p5_RS_29_reversed;Target=DTX-incomp_CV_p5_RS_29_reversed 1592 1808
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2048356	2048490	.	+	.	ID=ms527_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-B-R90-Map4_reversed;Target=DTX-incomp-chim_CV_p5-B-R90-Map4_reversed 8398 8536
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2011304	2011777	.	+	.	ID=ms508_Cvic_tig12_p5_DTX-incomp_CV_p5-B-G33-Map3;Target=DTX-incomp_CV_p5-B-G33-Map3 718 1231
+Cvic_tig07	CV_p5_REPET_TEs	match_part	79154	79303	.	+	.	ID=ms755_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-B-R90-Map4_reversed;Target=DTX-incomp-chim_CV_p5-B-R90-Map4_reversed 12674 12810
+Cvic_tig07	CV_p5_REPET_TEs	match_part	155387	155868	.	-	.	ID=ms798_Cvic_tig12_p5_RLX-comp-chim_CV_p5_RS_1_reversed;Target=RLX-comp-chim_CV_p5_RS_1_reversed 7012 7521
+Cvic_tig07	CV_p5_REPET_TEs	match_part	49092	49154	.	-	.	ID=ms751_Cvic_tig12_p5_RLX-incomp_CV_p5-B-R33-Map12;Target=RLX-incomp_CV_p5-B-R33-Map12 99 163
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1891453	1892001	.	+	.	ID=ms617_Cvic_tig12_p5_DTX-incomp-chim_CV_p5-L-B6-Map1;Target=DTX-incomp-chim_CV_p5-L-B6-Map1 9728 10295
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1478364	1478429	.	+	.	ID=ms637_Cvic_tig12_p5_DTX-incomp_CV_p5-B-R45-Map11_reversed;Target=DTX-incomp_CV_p5-B-R45-Map11_reversed 96 161
+Cvic_tig07	CV_p5_REPET_TEs	match_part	1924987	1925858	.	+	.	ID=ms512_Cvic_tig12_p5_RLX-incomp_CV_p5-B-R27-Map4_reversed;Target=RLX-incomp_CV_p5-B-R27-Map4_reversed 1739 2610
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2044677	2044869	.	-	.	ID=ms545_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B31-Map1;Target=RLX-incomp_CV_p5-L-B31-Map1 1428 1661
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2044435	2044675	.	-	.	ID=ms545_Cvic_tig12_p5_RLX-incomp_CV_p5-L-B31-Map1;Target=RLX-incomp_CV_p5-L-B31-Map1 1428 1661
+Cvic_tig07	CV_p5_REPET_TEs	match_part	2084151	2087014	.	+	.	ID=ms578_Cvic_tig12_p5_RLX-incomp_CV_p5-B-R112-Map3;Target=RLX-incomp_CV_p5-B-R112-Map3 456 3315
+Cvic_tig07	CV_p5_REPET_TEs	match_part	60502	60599	.	-	.	ID=ms809_Cvic_tig12_p5_DMX-incomp_CV_p5_RS_144;Target=DMX-incomp_CV_p5_RS_144 3 100
+Cvic_tig07	Geneious	gene	2094339	2097605	.	+	.	Name=Dehalogenase_CVIC_31968
+Cvic_tig07	Geneious	gene	2083616	2084140	.	+	.	Name=Precursor_peptide
+Cvic_tig07	Geneious	gene	2079240	2081571	.	+	.	Name=Cu_Amine_Ox CVIC21377
+Cvic_tig07	Geneious	gene	2085262	2085929	.	-	.	Name=4_CIVC_117098_DUF3328
+Cvic_tig07	Geneious	gene	2071960	2072352	.	-	.	Name=3_CVIC_63600_DUF3328
+Cvic_tig07	Geneious	gene	2059093	2059580	.	+	.	Name=2_CVIC_117381_DUF3328
+Cvic_tig07	Geneious	gene	2054668	2056476	.	+	.	Name=CVIC_43041_NAPDH_ox
+Cvic_tig07	Geneious	gene	2040779	2041511	.	+	.	Name=CVIC_115485_YicYb_DUFF3328
+Cvic_tig07	Geneious	gene	2026050	2026557	.	-	.	Name=1_CVIC_21381
+Cvic_tig07	Geneious	gene	1610214	1613684	.	-	.	Name=CVIC_109554_P450
