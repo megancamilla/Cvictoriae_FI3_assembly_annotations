@@ -1,0 +1,5 @@
+##gff-version 3
+##sequence-region Cvic_tig22 1 18071
+Cvic_tig22	CV_p5_REPET_TEs	match_part	16512	18071	0.0	-	.	ID=ms136_Cvic_tig22_RLX-incomp-chim_CV_p5-L-B16-Map1_reversed;Parent=mp136-1_Cvic_tig22_RLX-incomp-chim_CV_p5-L-B16-Map1_reversed;Target=RLX-incomp-chim_CV_p5-L-B16-Map1_reversed 8361 9937;Identity=93.7
+Cvic_tig22	CV_p5_REPET_TEs	match_part	1	7329	0.0	+	.	ID=ms134_Cvic_tig22_PotentialHostGene_CV_p5-B-G41-Map20;Parent=mp134-1_Cvic_tig22_PotentialHostGene_CV_p5-B-G41-Map20;Target=PotentialHostGene_CV_p5-B-G41-Map20 1 7568;Identity=97.6
+Cvic_tig22	CV_p5_REPET_TEs	match_part	7344	16511	0.0	+	.	ID=ms135_Cvic_tig22_RLX-incomp_CV_p5-B-R33-Map12;Parent=mp135-1_Cvic_tig22_RLX-incomp_CV_p5-B-R33-Map12;Target=RLX-incomp_CV_p5-B-R33-Map12 1 9253;Identity=96.0

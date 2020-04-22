@@ -1,0 +1,7 @@
+##gff-version 3
+##sequence-region Cvic_tig21 1 21316
+Cvic_tig21	CV_p5_REPET_TEs	match_part	12073	20495	0.0	-	.	ID=ms144_Cvic_tig21_RXX-LARD_CV_p5-L-B24-Map1;Parent=mp144-1_Cvic_tig21_RXX-LARD_CV_p5-L-B24-Map1;Target=RXX-LARD_CV_p5-L-B24-Map1 2 8436;Identity=98.2
+Cvic_tig21	CV_p5_REPET_TEs	match_part	20496	21316	0.0	+	.	ID=ms2147_Cvic_tig21_DTX-incomp-chim_CV_p5-L-B20-Map1;Parent=mp2147-1_Cvic_tig21_DTX-incomp-chim_CV_p5-L-B20-Map1;Target=DTX-incomp-chim_CV_p5-L-B20-Map1 2322 3147;Identity=98.2
+Cvic_tig21	CV_p5_REPET_TEs	match_part	782	11282	0.0	+	.	ID=ms141_Cvic_tig21_DTX-incomp-chim_CV_p5-L-B20-Map1;Parent=mp141-1_Cvic_tig21_DTX-incomp-chim_CV_p5-L-B20-Map1;Target=DTX-incomp-chim_CV_p5-L-B20-Map1 1 10501;Identity=100.0
+Cvic_tig21	CV_p5_REPET_TEs	match_part	11285	12072	0.0	+	.	ID=ms142_Cvic_tig21_DTX-incomp-chim_CV_p5-L-B20-Map1;Parent=mp142-1_Cvic_tig21_DTX-incomp-chim_CV_p5-L-B20-Map1;Target=DTX-incomp-chim_CV_p5-L-B20-Map1 875 1663;Identity=98.7
+Cvic_tig21	CV_p5_REPET_TEs	match_part	1	781	0.0	-	.	ID=ms143_Cvic_tig21_RXX-LARD_CV_p5-L-B24-Map1;Parent=mp143-1_Cvic_tig21_RXX-LARD_CV_p5-L-B24-Map1;Target=RXX-LARD_CV_p5-L-B24-Map1 2322 3101;Identity=98.8
