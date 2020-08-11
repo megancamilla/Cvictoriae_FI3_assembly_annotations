@@ -1,0 +1,56 @@
+##gff-version 3
+##Manual victorin annotations only
+Cvic_tig07	ena	CDS	1613573	1613684	.	-	.	ID=CDS:EUN23147;Parent=mrna_CYP1;Name=CYP1
+Cvic_tig07	ena	CDS	1612774	1613414	.	-	.	ID=CDS:EUN23147;Parent=mrna_CYP1;Name=CYP1
+Cvic_tig07	ena	CDS	1612396	1612722	.	-	.	ID=CDS:EUN23147;Parent=mrna_CYP1;Name=CYP1
+Cvic_tig07	ena	CDS	1610214	1612337	.	-	.	ID=CDS:EUN23147;Parent=mrna_CYP1;Name=CYP1
+Cvic_tig07	ena	CDS	2079240	2079433	.	+	.	ID=CDS:EUN20452;Parent=mrna_vicK1;Name=vicK1
+Cvic_tig07	ena	CDS	2079482	2079499	.	+	.	ID=CDS:EUN20452;Parent=mrna_vicK1;Name=vicK1
+Cvic_tig07	ena	CDS	2079550	2079862	.	+	.	ID=CDS:EUN20452;Parent=mrna_vicK1;Name=vicK1
+Cvic_tig07	ena	CDS	2079921	2080972	.	+	.	ID=CDS:EUN20452;Parent=mrna_vicK1;Name=vicK1
+Cvic_tig07	ena	CDS	2081019	2081571	.	+	.	ID=CDS:EUN20452;Parent=mrna_vicK1;Name=vicK1
+Cvic_tig07	Geneious	CDS	2054668	2055049	.	+	.	ID=NOX5_exon;Parent=mrna_NOX5;Name=NOX5
+Cvic_tig07	Geneious	CDS	2055152	2056237	.	+	.	ID=NOX5_exon;Parent=mrna_NOX5;Name=NOX5
+Cvic_tig07	Geneious	CDS	2056304	2056473	.	+	.	ID=NOX5_exon;Parent=mrna_NOX5;Name=NOX5
+Cvic_tig07	Geneious	CDS	2027750	2027854	.	-	.	ID=vicYu_exon;Parent=mrna_vicYu;Name=vicYu
+Cvic_tig07	Geneious	CDS	2027134	2027685	.	-	.	ID=vicYu_exon;Parent=mrna_vicYu;Name=vicYu
+Cvic_tig07	Geneious	CDS	2026859	2026978	.	-	.	ID=vicYu_exon;Parent=mrna_vicYu;Name=vicYu
+Cvic_tig07	Geneious	CDS	2026456	2026599	.	-	.	ID=vicYu_exon;Parent=mrna_vicYu;Name=vicYu
+Cvic_tig07	Geneious	CDS	2026050	2026355	.	-	.	ID=vicYu_exon;Parent=mrna_vicYu;Name=vicYu
+Cvic_tig07	Geneious	CDS	2040438	2040684	.	+	.	ID=vicYa_exon;Parent=mrna_vicYa;Name=vicYa
+Cvic_tig07	Geneious	CDS	2040747	2040857	.	+	.	ID=vicYa_exon;Parent=mrna_vicYa;Name=vicYa
+Cvic_tig07	Geneious	CDS	2040909	2041018	.	+	.	ID=vicYa_exon;Parent=mrna_vicYa;Name=vicYa
+Cvic_tig07	Geneious	CDS	2041227	2041511	.	+	.	ID=vicYa_exon;Parent=mrna_vicYa;Name=vicYa
+Cvic_tig07	Geneious	CDS	2085262	2086092	.	-	.	ID=vicYx1_exon;Parent=mrna_vicYx1;Name=vicYx1
+Cvic_tig07	Geneious	CDS	2071798	2072553	.	-	.	ID=vicYw_exon;Parent=mrna_vicYw1;Name=vicYw1
+Cvic_tig07	Geneious	CDS	2083616	2083679	.	+	.	ID=vicA1_exon;Parent=mrna_vicA1;Name=vicA1
+Cvic_tig07	Geneious	CDS	2083734	2084140	.	+	.	ID=vicA1_exon;Parent=mrna_vicA1;Name=vicA1
+Cvic_tig07	Geneious	CDS	2059093	2059509	.	+	.	ID=vicY1_exon;Parent=mrna_vicYv1;Name=vicYv1
+Cvic_tig07	Geneious	gene	1610214	1613684	.	-	.	ID=CYP1;Name=CYP1
+Cvic_tig07	Geneious	gene	2079240	2081571	.	+	.	ID=vicK1;Name=vicK1
+Cvic_tig07	Geneious	gene	2054668	2056476	.	+	.	ID=NOX5;Name=NOX5
+Cvic_tig07	Geneious	gene	2026050	2027854	.	-	.	ID=vicYu;Name=vicYu
+Cvic_tig07	Geneious	gene	2040438	2041511	.	+	.	ID=vicYa;Name=vicYa
+Cvic_tig07	Geneious	gene	2085262	2086092	.	-	.	ID=vicYx1;Name=vicYx1
+Cvic_tig07	Geneious	gene	2071798	2072553	.	-	.	ID=vicYw1;Name=vicYw1
+Cvic_tig07	Geneious	gene	2083616	2084140	.	+	.	ID=vicA1;Name=vicA1
+Cvic_tig07	Geneious	gene	2059093	2059509	.	+	.	ID=vicYv1;Name=vicYv1
+Cvic_tig07	Geneious	mRNA	1610214	1613684	.	-	.	ID=mrna_CYP1;Parent=CYP1;Name=CYP1
+Cvic_tig07	Geneious	mRNA	2079240	2081571	.	+	.	ID=mrna_vicK1;Parent=vicK1;Name=vicK1
+Cvic_tig07	Geneious	mRNA	2054668	2056476	.	+	.	ID=mrna_NOX5;Parent=NOX5;Name=NOX5
+Cvic_tig07	Geneious	mRNA	2026050	2027854	.	-	.	ID=mrna_vicYu;Parent=vicYu;Name=vicYu
+Cvic_tig07	Geneious	mRNA	2040438	2041511	.	+	.	ID=mrna_vicYa;Parent=vicYa;Name=vicYa
+Cvic_tig07	Geneious	mRNA	2085262	2086092	.	-	.	ID=mrna_vicYx1;Parent=vicYx1;Name=vicYx1
+Cvic_tig07	Geneious	mRNA	2071798	2072553	.	-	.	ID=mrna_vicYw1;Parent=vicYw1;Name=vicYw1
+Cvic_tig07	Geneious	mRNA	2083616	2084140	.	+	.	ID=mrna_vicA1;Parent=vicA1;Name=vicA1
+Cvic_tig07	Geneious	mRNA	2059093	2059509	.	+	.	ID=mrna_vicYv1;Parent=vicYv1;Name=vicYv1
+Cvic_tig07	Geneious	motif	2059423	2059437	.	+	.	Name=HXXHC motif;Parent=vicYv1
+Cvic_tig07	Geneious	motif	2059336	2059350	.	+	.	Name=HXXHC motif;Parent=vicYv1
+Cvic_tig07	Geneious	motif	2085469	2085483	.	-	.	Name=HXXHC motif;Parent=vicYx1
+Cvic_tig07	Geneious	motif	2085562	2085576	.	-	.	Name=HXXHC motif;Parent=vicYx1
+Cvic_tig07	Geneious	motif	2026459	2026473	.	-	.	Name=HXXHC motif;Parent=vicYu
+Cvic_tig07	Geneious	motif	2026329	2026343	.	-	.	Name=HXXHC motif;Parent=vicYu
+Cvic_tig07	Geneious	motif	2072023	2072037	.	-	.	Name=HXXHC motif;Parent=vicYw1
+Cvic_tig07	Geneious	motif	2072113	2072127	.	-	.	Name=HXXHC motif;Parent=vicYw1
+Cvic_tig07	Geneious	motif	2041001	2041015	.	+	.	Name=HXXHC motif;Parent=vicYa
+Cvic_tig07	Geneious	motif	2041314	2041328	.	+	.	Name=HXXHC motif;Parent=vicYa
